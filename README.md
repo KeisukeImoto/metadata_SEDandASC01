@@ -4,7 +4,7 @@ Sound event detection (SED) and acoustic scene classification (ASC) are major re
 
 ## What are TUT Sound Events 2016/2017 & TUT Acoustic Scenes 2016/2017
 
-
+TUT Sound Events 2016/2017 & Acoustic Scenes 2016/2017 are environmental sound datasets for SED and ASC, which were originally recorded by Tampere University, Audio Research Group. Parts of sound clips in this dataset have strong event labels (e.g. TUT Sound Events 2016, TUT Sound Events 2017); however, many of sound clips have no strong labels. We have annotated some of these sound clips using the same protocol as in [1] and [2]. 
 
 
 
