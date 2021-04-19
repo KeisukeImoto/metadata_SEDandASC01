@@ -12,6 +12,13 @@ This dataset contains 266 min. of sounds (192 min. for training, 74 min. for eva
 
 Note that sound files of the TUT Sound Events 2016/2017 and TUT Acoustic Scenes 2016/2017 are not included in this metadata. Please download them from the DCASE Challenge Web page (or directly Zenodo).
 
+
+
+`path	scene_label	event_start_time	event_end_time	event_label
+TUT-sound-events-2017-development/audio/street/a124.wav	city_center	0.0	4.037666	people speaking
+TUT-sound-events-2017-development/audio/street/a124.wav	city_center	0.0	21.850174	large vehicle
+TUT-sound-events-2017-development/audio/street/a124.wav	city_center	1.772634	4.222315	people walking`
+
 ##
 
 [1]  A. Mesaros, T. Heittola, and T. Virtanen, “TUT Database for Acoustic Scene Classification and Sound Event Detection," Proc. European Signal Processing Conference (EUSIPCO), pp. 1128-1132.  
