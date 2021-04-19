@@ -1,0 +1,1635 @@
+path	scene_label	event_start_time	event_end_time	event_label
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	5.027725	10.637171	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	31.745306	34.404599	brakes squeaking
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	31.953063	39.141464	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	42.777216	47.597183	large vehicle
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	48.739848	51.523795	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	52.3756	57.798064	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	58.005821	59.501673	people speaking
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	58.359008	60.498908	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	69.120833	73.275978	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	73.546063	85.118141	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	85.699861	92.161111	brakes squeaking
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	92.55585	95.402124	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	95.755311	101.759496	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	102.195786	105.62378	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	103.089142	106.641791	children
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	106.434034	110.173664	people speaking
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	111.274777	122.597547	children
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	116.468708	123.241594	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	124.301156	129.162675	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	128.165441	131.406454	brakes squeaking
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	133.525578	139.010369	large vehicle
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	134.522812	137.452189	brakes squeaking
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	147.279107	147.673845	brakes squeaking
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	153.137861	168.553448	brakes squeaking
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	157.916277	163.962013	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	165.811052	172.62549	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	170.568693	174.516081	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	175.471764	177.798645	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	177.798645	182.764043	large vehicle
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	184.467653	189.910892	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	190.721145	194.980169	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	191.323641	196.185161	brakes squeaking
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	215.942874	221.053702	brakes squeaking
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	222.383349	226.206082	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	227.598055	232.418023	people speaking
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	228.906926	232.833538	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	235.721363	239.980387	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	238.609189	243.740793	large vehicle
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	241.725548	245.818365	brakes squeaking
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	242.972091	245.485954	people speaking
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	246.171553	250.056613	car
+TUT-sound-events-2017-evaluation/audio/street/a005.wav	city_center	248.082919	249.329463	children
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	4.853172	7.815162	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	7.538825	9.23139	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	9.611354	11.226199	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	11.312555	12.400633	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	14.827219	18.307341	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	18.575042	20.077626	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	22.124248	23.523205	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	22.711465	28.048227	people walking
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	28.246845	35.017107	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	39.144894	42.530025	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	46.329661	51.51962	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	60.163793	69.524716	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	66.139585	68.678434	people walking
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	76.303614	81.035888	people walking
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	85.094591	87.089401	people walking
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	86.225847	90.042755	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	90.042755	91.458983	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	91.683507	93.531512	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	93.401979	94.205084	people walking
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	94.766394	97.236158	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	99.76637	105.016777	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	105.362199	108.427815	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	120.094427	121.812899	people speaking
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	129.748958	134.032185	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	131.501972	133.824932	people walking
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	133.617679	136.501949	people speaking
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	135.569311	136.346509	people walking
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	143.436286	158.997525	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	165.949133	171.009559	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	170.690044	177.503483	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	171.51042	173.807473	brakes squeaking
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	177.93526	179.550106	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	181.45856	184.550082	car
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	182.805704	183.185667	people walking
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	188.082017	194.878186	large vehicle
+TUT-sound-events-2017-evaluation/audio/street/b092.wav	city_center	198.634645	205.016307	car
+TUT-acoustic-scenes-2017-evaluation/audio/1244.wav	city_center	5.116918	7.113325	car
+TUT-acoustic-scenes-2017-evaluation/audio/1244.wav	city_center	5.363097	5.557567	people talking
+TUT-acoustic-scenes-2017-evaluation/audio/1244.wav	city_center	5.746416	7.032390	people talking
+TUT-acoustic-scenes-2017-evaluation/audio/1244.wav	city_center	9.280597	10.000023	people talking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	0.328830	0.427929	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	0.996624	1.058561	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	1.558562	1.647526	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	1.913293	2.042797	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	2.280411	2.323203	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	2.443699	2.559690	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	2.932439	3.056313	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	3.145277	3.579963	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	3.870504	4.074334	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	4.423433	4.548434	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	4.942579	5.043930	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	5.181318	5.520283	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	5.737626	6.059698	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	6.126140	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	6.264654	6.569835	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	6.790556	7.096863	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	7.985378	8.123892	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	8.445965	8.579974	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	8.805200	8.921191	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	9.260156	9.460607	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/25.wav	city_center	9.616013	9.872770	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/964.wav	city_center	2.607920	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/1322.wav	city_center	2.733819	4.325549	car
+TUT-acoustic-scenes-2017-evaluation/audio/1322.wav	city_center	5.332746	9.352539	car
+TUT-acoustic-scenes-2017-evaluation/audio/246.wav	city_center	0.000000	3.120511	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/1038.wav	city_center	2.122307	3.156482	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1038.wav	city_center	7.787787	8.929876	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/565.wav	city_center	4.370514	6.870519	car
+TUT-acoustic-scenes-2017-evaluation/audio/334.wav	city_center	5.440660	9.991030	car
+TUT-acoustic-scenes-2017-evaluation/audio/1147.wav	city_center	0.156250	0.256296	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1147.wav	city_center	0.541818	0.677834	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1147.wav	city_center	0.997080	1.118483	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1147.wav	city_center	1.461334	1.578241	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1147.wav	city_center	1.771587	2.087460	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1147.wav	city_center	2.390968	2.534853	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1147.wav	city_center	2.759674	2.994611	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1147.wav	city_center	3.318353	3.516195	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1147.wav	city_center	3.779235	4.004056	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1147.wav	city_center	4.271592	4.379506	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1147.wav	city_center	4.739219	4.946054	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1147.wav	city_center	4.874112	10.000023	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/1147.wav	city_center	6.852534	7.473039	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/836.wav	city_center	2.005400	5.692459	car
+TUT-acoustic-scenes-2017-evaluation/audio/836.wav	city_center	7.706852	7.778795	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/836.wav	city_center	8.318364	8.390307	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/836.wav	city_center	8.948986	9.044535	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/836.wav	city_center	9.469446	9.550381	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/714.wav	city_center	6.672677	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/1302.wav	city_center	0.000000	5.458645	car
+TUT-acoustic-scenes-2017-evaluation/audio/1302.wav	city_center	9.467198	9.548133	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1314.wav	city_center	1.224148	1.318573	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1314.wav	city_center	1.321945	3.084539	car
+TUT-acoustic-scenes-2017-evaluation/audio/1314.wav	city_center	2.160526	2.317901	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1314.wav	city_center	2.687731	2.820375	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1314.wav	city_center	3.153110	3.257651	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1314.wav	city_center	3.291374	6.393899	car
+TUT-acoustic-scenes-2017-evaluation/audio/1314.wav	city_center	3.624109	3.745512	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1314.wav	city_center	4.100729	4.235621	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1314.wav	city_center	4.570604	4.705496	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1314.wav	city_center	5.091064	5.168627	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1314.wav	city_center	5.508106	5.617144	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/483.wav	city_center	0.395684	2.904683	car
+TUT-acoustic-scenes-2017-evaluation/audio/114.wav	city_center	4.216226	4.387397	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/114.wav	city_center	4.684695	4.872759	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/114.wav	city_center	5.268030	5.381769	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/114.wav	city_center	5.801815	5.900914	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/114.wav	city_center	6.207221	6.454970	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/114.wav	city_center	6.666682	6.765781	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/114.wav	city_center	7.434702	7.551819	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/114.wav	city_center	8.009027	8.090108	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/177.wav	city_center	0.036036	4.666677	car
+TUT-acoustic-scenes-2017-evaluation/audio/177.wav	city_center	0.180181	0.315316	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/177.wav	city_center	0.711713	0.819822	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/177.wav	city_center	1.324327	1.442571	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/177.wav	city_center	1.832211	1.922302	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/177.wav	city_center	5.582220	5.784923	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/177.wav	city_center	6.316456	6.450465	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/177.wav	city_center	7.018034	7.117133	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/177.wav	city_center	8.792813	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/974.wav	city_center	0.000000	6.636706	car
+TUT-acoustic-scenes-2017-evaluation/audio/974.wav	city_center	8.534192	9.145704	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1349.wav	city_center	2.392092	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/1349.wav	city_center	7.365125	8.817466	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/1349.wav	city_center	9.226640	9.620076	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/1161.wav	city_center	0.793617	0.880173	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1161.wav	city_center	1.290471	1.411874	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1161.wav	city_center	3.606123	7.059369	car
+TUT-acoustic-scenes-2017-evaluation/audio/693.wav	city_center	3.905135	4.687511	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/693.wav	city_center	4.817907	5.312512	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/693.wav	city_center	7.877716	9.100740	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/675.wav	city_center	8.821962	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/976.wav	city_center	0.000000	1.699644	car
+TUT-acoustic-scenes-2017-evaluation/audio/976.wav	city_center	6.160086	6.573756	people talking
+TUT-acoustic-scenes-2017-evaluation/audio/764.wav	city_center	2.473027	4.487420	car
+TUT-acoustic-scenes-2017-evaluation/audio/764.wav	city_center	8.792736	8.907394	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/764.wav	city_center	9.342422	9.409868	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/764.wav	city_center	9.833655	10.000023	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/581.wav	city_center	0.000000	1.564752	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/581.wav	city_center	1.411874	2.086336	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/640.wav	city_center	1.237638	1.522036	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/640.wav	city_center	1.808682	2.082963	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/640.wav	city_center	2.895690	8.237429	car
+TUT-acoustic-scenes-2017-evaluation/audio/1173.wav	city_center	0.000000	1.474823	car
+TUT-acoustic-scenes-2017-evaluation/audio/1173.wav	city_center	3.408281	6.025194	car
+TUT-acoustic-scenes-2017-evaluation/audio/1380.wav	city_center	5.990346	6.035310	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/1380.wav	city_center	6.287110	6.923352	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/1380.wav	city_center	7.584325	7.901322	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/1380.wav	city_center	9.768457	10.000023	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/1219.wav	city_center	6.996419	10.000023	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/1151.wav	city_center	4.046772	4.226628	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/1151.wav	city_center	4.496413	4.622313	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/1211.wav	city_center	1.600723	2.697848	car
+TUT-acoustic-scenes-2017-evaluation/audio/1211.wav	city_center	5.233825	7.437067	car
+TUT-acoustic-scenes-2017-evaluation/audio/477.wav	city_center	0.000000	1.791821	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/702.wav	city_center	2.365113	2.453917	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/702.wav	city_center	2.829368	2.940654	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/702.wav	city_center	3.228425	3.345331	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/702.wav	city_center	3.767994	3.884901	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/702.wav	city_center	4.170423	4.343535	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/702.wav	city_center	4.626809	4.820155	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/702.wav	city_center	5.669977	5.795876	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/702.wav	city_center	6.117370	6.230904	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/702.wav	city_center	6.589493	6.706400	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/702.wav	city_center	7.045879	7.176275	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/702.wav	city_center	7.509010	7.634909	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1353.wav	city_center	0.376575	1.433232	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/285.wav	city_center	7.518003	9.982037	car
+TUT-acoustic-scenes-2017-evaluation/audio/935.wav	city_center	0.314749	2.958640	car
+TUT-acoustic-scenes-2017-evaluation/audio/935.wav	city_center	4.631305	7.760809	car
+TUT-acoustic-scenes-2017-evaluation/audio/935.wav	city_center	7.886709	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/1104.wav	city_center	5.728430	9.172683	car
+TUT-acoustic-scenes-2017-evaluation/audio/991.wav	city_center	3.165475	4.721234	car
+TUT-acoustic-scenes-2017-evaluation/audio/991.wav	city_center	7.796780	8.992826	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/991.wav	city_center	9.181676	9.955059	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/1159.wav	city_center	0.773383	6.465842	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/515.wav	city_center	1.076579	1.459463	breathing
+TUT-acoustic-scenes-2017-evaluation/audio/515.wav	city_center	1.592346	1.742121	breathing
+TUT-acoustic-scenes-2017-evaluation/audio/515.wav	city_center	3.325458	3.592350	breathing
+TUT-acoustic-scenes-2017-evaluation/audio/515.wav	city_center	6.810826	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/515.wav	city_center	9.530427	10.000023	breathing
+TUT-acoustic-scenes-2017-evaluation/audio/40.wav	city_center	0.000000	1.945950	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/40.wav	city_center	6.389654	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/884.wav	city_center	3.408281	9.982037	car
+TUT-acoustic-scenes-2017-evaluation/audio/17.wav	city_center	8.513533	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/1156.wav	city_center	4.199650	4.874112	breathing
+TUT-acoustic-scenes-2017-evaluation/audio/603.wav	city_center	3.830944	6.591742	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/608.wav	city_center	0.000000	3.075547	car
+TUT-acoustic-scenes-2017-evaluation/audio/1242.wav	city_center	0.324866	0.505846	breathing
+TUT-acoustic-scenes-2017-evaluation/audio/1242.wav	city_center	0.559803	0.880173	breathing
+TUT-acoustic-scenes-2017-evaluation/audio/853.wav	city_center	0.000000	2.985618	car
+TUT-acoustic-scenes-2017-evaluation/audio/853.wav	city_center	7.284189	8.228436	car
+TUT-acoustic-scenes-2017-evaluation/audio/747.wav	city_center	4.622313	6.321957	car
+TUT-acoustic-scenes-2017-evaluation/audio/747.wav	city_center	7.032390	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/1513.wav	city_center	2.868712	4.064757	car
+TUT-acoustic-scenes-2017-evaluation/audio/342.wav	city_center	0.098921	1.043168	car
+TUT-acoustic-scenes-2017-evaluation/audio/342.wav	city_center	4.901090	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/219.wav	city_center	3.173344	3.366689	children
+TUT-acoustic-scenes-2017-evaluation/audio/219.wav	city_center	4.975281	8.212698	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/219.wav	city_center	8.776998	10.000023	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/435.wav	city_center	2.410077	3.102525	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/435.wav	city_center	3.812958	4.100729	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/435.wav	city_center	5.287782	5.368717	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/435.wav	city_center	5.602531	6.672677	car
+TUT-acoustic-scenes-2017-evaluation/audio/435.wav	city_center	6.49282	6.600734	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/289.wav	city_center	2.482020	3.363317	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/289.wav	city_center	3.696052	4.360397	car
+TUT-acoustic-scenes-2017-evaluation/audio/289.wav	city_center	6.393899	7.131311	car
+TUT-acoustic-scenes-2017-evaluation/audio/289.wav	city_center	8.896153	8.990578	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/577.wav	city_center	0.035971	0.188849	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/577.wav	city_center	0.386692	0.521584	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/577.wav	city_center	4.378382	7.455053	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/577.wav	city_center	4.721234	10.000023	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/1012.wav	city_center	0.132644	0.192222	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1012.wav	city_center	0.503598	0.793617	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1012.wav	city_center	1.198294	1.382647	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1012.wav	city_center	2.059357	2.374106	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1012.wav	city_center	2.648387	3.125007	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1012.wav	city_center	3.956844	4.208643	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1012.wav	city_center	4.370514	4.577349	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1012.wav	city_center	4.802169	4.910083	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1012.wav	city_center	5.040479	5.170875	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1012.wav	city_center	7.419082	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/818.wav	city_center	0.000000	0.890290	car
+TUT-acoustic-scenes-2017-evaluation/audio/818.wav	city_center	1.411874	1.985166	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/818.wav	city_center	2.904683	3.612868	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/818.wav	city_center	4.022041	5.440660	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/818.wav	city_center	4.334542	9.325561	car
+TUT-acoustic-scenes-2017-evaluation/audio/1505.wav	city_center	2.859719	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/365.wav	city_center	1.330938	3.579145	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/365.wav	city_center	4.905587	6.418630	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/365.wav	city_center	6.312964	9.346919	people talking
+TUT-acoustic-scenes-2017-evaluation/audio/503.wav	city_center	1.250003	3.408281	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/503.wav	city_center	6.205050	8.219443	car
+TUT-acoustic-scenes-2017-evaluation/audio/1369.wav	city_center	0.000000	0.917268	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/1369.wav	city_center	8.516206	10.000023	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/1552.wav	city_center	0.052833	0.394560	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/1552.wav	city_center	1.223024	9.757216	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/917.wav	city_center	0.000000	5.233825	car
+TUT-acoustic-scenes-2017-evaluation/audio/105.wav	city_center	3.675684	3.808567	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/105.wav	city_center	4.327713	4.407668	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/105.wav	city_center	4.810822	5.032669	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/105.wav	city_center	5.495508	5.603616	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/105.wav	city_center	6.090104	6.233122	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/105.wav	city_center	6.567582	6.796187	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/105.wav	city_center	7.247764	7.387404	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/105.wav	city_center	7.662180	7.786054	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/105.wav	city_center	7.954973	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/105.wav	city_center	8.306325	8.432452	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/559.wav	city_center	0.000000	7.904694	car
+TUT-acoustic-scenes-2017-evaluation/audio/559.wav	city_center	9.532396	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/284.wav	city_center	3.938858	6.753612	people talking
+TUT-acoustic-scenes-2017-evaluation/audio/284.wav	city_center	4.167051	5.656488	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/284.wav	city_center	8.576908	8.911891	people talking
+TUT-acoustic-scenes-2017-evaluation/audio/945.wav	city_center	0.458634	3.516195	car
+TUT-acoustic-scenes-2017-evaluation/audio/945.wav	city_center	3.291374	3.399288	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/945.wav	city_center	3.723030	3.821951	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/945.wav	city_center	4.150189	4.267096	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/945.wav	city_center	4.730227	4.874112	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/945.wav	city_center	5.170875	5.296775	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1573.wav	city_center	0.813851	0.882421	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1573.wav	city_center	1.807558	1.879501	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1573.wav	city_center	2.736067	2.825996	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1573.wav	city_center	4.234497	4.292950	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1573.wav	city_center	4.697628	5.332746	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1573.wav	city_center	5.553070	5.791380	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1573.wav	city_center	6.241021	6.483828	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1573.wav	city_center	6.843541	7.473039	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/1573.wav	city_center	7.535988	8.498221	car
+TUT-acoustic-scenes-2017-evaluation/audio/1573.wav	city_center	7.706852	8.210450	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/1573.wav	city_center	8.617376	8.887160	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1573.wav	city_center	9.073762	9.172683	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1573.wav	city_center	9.594221	9.675157	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1400.wav	city_center	0.000000	0.440648	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/1400.wav	city_center	2.535977	5.251810	car
+TUT-acoustic-scenes-2017-evaluation/audio/1400.wav	city_center	6.115122	8.219443	car
+TUT-acoustic-scenes-2017-evaluation/audio/1254.wav	city_center	1.088132	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/306.wav	city_center	1.843529	2.637146	car
+TUT-acoustic-scenes-2017-evaluation/audio/306.wav	city_center	2.817003	4.118714	car
+TUT-acoustic-scenes-2017-evaluation/audio/306.wav	city_center	7.535988	7.967644	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/306.wav	city_center	9.100740	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/914.wav	city_center	0.000000	1.879501	car
+TUT-acoustic-scenes-2017-evaluation/audio/914.wav	city_center	3.381303	3.861295	children
+TUT-acoustic-scenes-2017-evaluation/audio/914.wav	city_center	7.401096	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/804.wav	city_center	5.863323	7.500017	car
+TUT-acoustic-scenes-2017-evaluation/audio/804.wav	city_center	9.343546	10.000023	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/403.wav	city_center	4.908959	5.843089	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/403.wav	city_center	6.618720	6.843541	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/742.wav	city_center	0.076439	0.179857	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/742.wav	city_center	0.521584	0.638491	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/742.wav	city_center	1.007197	1.076891	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/742.wav	city_center	3.169971	3.379054	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/742.wav	city_center	3.703920	3.866915	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/742.wav	city_center	4.169299	4.274965	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/742.wav	city_center	6.285985	10.000023	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/1449.wav	city_center	0.000000	1.726623	car
+TUT-acoustic-scenes-2017-evaluation/audio/1449.wav	city_center	3.372310	5.449653	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/1606.wav	city_center	6.133107	9.982037	car
+TUT-acoustic-scenes-2017-evaluation/audio/651.wav	city_center	8.839948	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/1033.wav	city_center	5.772270	6.294978	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/1033.wav	city_center	8.905146	9.028797	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1033.wav	city_center	9.424482	9.532396	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/591.wav	city_center	3.821951	8.327357	car
+TUT-acoustic-scenes-2017-evaluation/audio/591.wav	city_center	7.877716	8.003615	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/591.wav	city_center	8.332978	8.545433	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/154.wav	city_center	2.594600	4.441452	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/154.wav	city_center	8.090108	9.405427	brakes squeaking
+TUT-acoustic-scenes-2017-evaluation/audio/683.wav	city_center	0.566548	2.517991	car
+TUT-acoustic-scenes-2017-evaluation/audio/683.wav	city_center	3.006976	3.344207	breathing
+TUT-acoustic-scenes-2017-evaluation/audio/683.wav	city_center	6.330950	8.696063	car
+TUT-acoustic-scenes-2017-evaluation/audio/980.wav	city_center	0.701440	3.759001	car
+TUT-acoustic-scenes-2017-evaluation/audio/980.wav	city_center	5.827351	9.424482	car
+TUT-acoustic-scenes-2017-evaluation/audio/1385.wav	city_center	1.027430	1.124103	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1385.wav	city_center	1.410750	1.452341	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1385.wav	city_center	2.329142	2.508999	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1385.wav	city_center	2.724826	3.264396	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1385.wav	city_center	4.932565	5.059589	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1385.wav	city_center	6.365797	6.464718	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/995.wav	city_center	0.000000	1.285974	car
+TUT-acoustic-scenes-2017-evaluation/audio/995.wav	city_center	6.025194	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/1246.wav	city_center	0.431656	0.533949	children
+TUT-acoustic-scenes-2017-evaluation/audio/1246.wav	city_center	3.963588	4.062509	children
+TUT-acoustic-scenes-2017-evaluation/audio/1246.wav	city_center	4.200774	4.410981	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1246.wav	city_center	7.158290	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/1246.wav	city_center	8.900650	8.990578	children
+TUT-acoustic-scenes-2017-evaluation/audio/1511.wav	city_center	3.270016	3.422894	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1511.wav	city_center	8.498221	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/1202.wav	city_center	0.000000	0.773383	children
+TUT-acoustic-scenes-2017-evaluation/audio/1202.wav	city_center	0.855443	0.909400	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1202.wav	city_center	1.649059	2.020014	breathing
+TUT-acoustic-scenes-2017-evaluation/audio/1202.wav	city_center	1.985166	2.044744	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1202.wav	city_center	2.221228	2.473027	breathing
+TUT-acoustic-scenes-2017-evaluation/audio/1202.wav	city_center	2.510123	2.958640	breathing
+TUT-acoustic-scenes-2017-evaluation/audio/1202.wav	city_center	3.371186	3.552166	children
+TUT-acoustic-scenes-2017-evaluation/audio/1202.wav	city_center	3.657832	3.848930	children
+TUT-acoustic-scenes-2017-evaluation/audio/1202.wav	city_center	4.355900	4.542501	children
+TUT-acoustic-scenes-2017-evaluation/audio/1202.wav	city_center	4.817907	4.857250	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1202.wav	city_center	5.935265	6.384907	children
+TUT-acoustic-scenes-2017-evaluation/audio/1202.wav	city_center	6.909863	7.389855	children
+TUT-acoustic-scenes-2017-evaluation/audio/1020.wav	city_center	2.086336	2.366237	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1020.wav	city_center	2.459538	2.813630	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/1020.wav	city_center	2.966509	3.145241	people walking
+TUT-acoustic-scenes-2017-evaluation/audio/413.wav	city_center	0.383319	0.559803	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/413.wav	city_center	0.675586	0.772259	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/413.wav	city_center	3.741016	7.922680	car
+TUT-acoustic-scenes-2017-evaluation/audio/413.wav	city_center	9.874123	9.998899	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/901.wav	city_center	2.032379	6.106129	car
+TUT-acoustic-scenes-2017-evaluation/audio/901.wav	city_center	6.822183	7.132435	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/901.wav	city_center	7.394351	7.638282	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/705.wav	city_center	0.162163	1.783788	car
+TUT-acoustic-scenes-2017-evaluation/audio/705.wav	city_center	6.351366	9.585607	car
+TUT-acoustic-scenes-2017-evaluation/audio/705.wav	city_center	9.353625	9.540562	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/147.wav	city_center	4.576587	8.054072	car
+TUT-acoustic-scenes-2017-evaluation/audio/1295.wav	city_center	2.893442	3.081167	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1295.wav	city_center	4.825775	4.933689	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1295.wav	city_center	7.652895	10.000023	car
+TUT-acoustic-scenes-2017-evaluation/audio/1278.wav	city_center	0.059577	0.212456	children
+TUT-acoustic-scenes-2017-evaluation/audio/1278.wav	city_center	0.997080	1.400633	children
+TUT-acoustic-scenes-2017-evaluation/audio/1278.wav	city_center	1.997532	2.839485	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1278.wav	city_center	3.474603	3.588138	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1278.wav	city_center	4.187285	4.292950	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1278.wav	city_center	4.455945	4.552618	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1278.wav	city_center	5.233825	5.512602	children
+TUT-acoustic-scenes-2017-evaluation/audio/1278.wav	city_center	5.918404	6.232029	children
+TUT-acoustic-scenes-2017-evaluation/audio/1278.wav	city_center	6.456849	6.753612	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1278.wav	city_center	8.286889	8.365577	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1278.wav	city_center	9.402000	10.000023	children
+TUT-acoustic-scenes-2017-evaluation/audio/734.wav	city_center	0.899283	4.424470	car
+TUT-acoustic-scenes-2017-evaluation/audio/1214.wav	city_center	1.488313	1.569248	children
+TUT-acoustic-scenes-2017-evaluation/audio/1214.wav	city_center	3.637598	3.726402	children
+TUT-acoustic-scenes-2017-evaluation/audio/1214.wav	city_center	4.140072	4.292950	children
+TUT-acoustic-scenes-2017-evaluation/audio/1214.wav	city_center	5.662108	5.756533	children
+TUT-acoustic-scenes-2017-evaluation/audio/1214.wav	city_center	5.998215	6.160086	children
+TUT-acoustic-scenes-2017-evaluation/audio/1214.wav	city_center	6.447856	6.561391	children
+TUT-acoustic-scenes-2017-evaluation/audio/1214.wav	city_center	7.069485	7.366249	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1214.wav	city_center	7.983381	8.127267	children
+TUT-acoustic-scenes-2017-evaluation/audio/1214.wav	city_center	8.231808	8.465622	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1214.wav	city_center	8.938869	9.091747	children
+TUT-acoustic-scenes-2017-evaluation/audio/1214.wav	city_center	9.125470	9.372773	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/551.wav	city_center	0.000000	0.917268	large vehicle
+TUT-acoustic-scenes-2017-evaluation/audio/551.wav	city_center	5.017997	7.104333	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1613.wav	city_center	1.270237	2.562955	children
+TUT-acoustic-scenes-2017-evaluation/audio/1613.wav	city_center	1.429859	1.591730	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1613.wav	city_center	4.199650	4.370514	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1613.wav	city_center	4.829148	5.386703	children
+TUT-acoustic-scenes-2017-evaluation/audio/1613.wav	city_center	5.665480	5.761029	bird singing
+TUT-acoustic-scenes-2017-evaluation/audio/1613.wav	city_center	6.738999	8.156493	people talking
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	0.0	10.045824	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	11.177644	12.205898	dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	12.302066	13.544848	dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	20.816604	21.21607	(object) snapping
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	21.534163	22.325697	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	22.162952	22.747355	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	23.006268	33.0299	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	38.770371	40.346041	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	39.450942	41.884724	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	41.995687	56.909075	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	44.947295	45.761021	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	48.313164	49.141685	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	51.80479	52.6703	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	55.666293	59.979043	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	59.439025	59.979043	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	61.288403	61.643484	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	62.375838	63.825751	object impact
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	63.55944	69.647594	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	70.143228	70.631463	object impact
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	71.607935	73.043053	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	76.113021	98.150215	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	79.316145	82.600641	dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	84.849485	85.145386	dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	98.416526	98.852979	object impact
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	101.715817	103.010382	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	103.713146	104.290152	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	104.290152	104.68222	object impact
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	106.08035	106.568586	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	106.849692	107.234363	cupboard
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	108.876611	120.705236	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	108.950586	109.335257	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	121.067714	121.444987	object impact
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	122.110763	123.782601	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	123.649446	124.063707	drawer
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	125.099359	126.586259	people walking
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	126.85257	127.303818	drawer
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	128.169327	128.657563	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	128.746333	129.131004	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	133.710065	135.049015	object impact
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	136.010692	137.423617	water tap running 
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	138.045008	139.176828	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	139.672461	140.057132	object impact
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	143.815069	145.523895	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	145.028262	145.590473	water tap running 
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	147.410261	148.12782	dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	150.028981	150.450639	dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	150.83531	151.338341	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	154.726402	158.728457	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	162.982028	163.655202	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	163.92891	164.720444	dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	164.513313	168.574549	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	167.561089	168.041928	dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	168.478381	168.900039	(object) snapping
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	171.393001	171.81466	object impact
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	173.930349	175.957268	object impact
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	177.000317	177.355398	object impact
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	177.569926	178.642565	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a029.wav	home	178.760925	179.84836	drawer
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	1.303634	65.568621	water tap running 
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	3.043689	4.893775	dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	6.7737	7.82805	drawer
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	7.82805	8.404958	drawer
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	8.94208	9.300161	dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	12.970492	13.507613	dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	14.303349	14.69127	drawer
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	20.161953	21.355557	object impact
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	21.872785	22.4298	drawer
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	22.638681	23.076335	drawer
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	24.051111	25.821623	dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	31.003852	32.406336	drawer
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	31.620547	32.247189	object impact
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	33.361219	33.938128	object impact
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	34.236528	36.544162	object impact
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	39.189983	40.234386	drawer
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	40.393533	41.020175	object impact
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	40.950548	41.796018	drawer
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	42.472393	43.019461	object impact
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	45.575762	46.630112	object impact
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	49.43508	50.310389	drawer
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	50.220869	50.877351	drawer
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	51.135965	52.946264	drawer
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	53.821573	56.636488	drawer
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	59.262416	61.450689	drawer
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	62.345892	63.82795	dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	68.841085	73.864166	water tap running 
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	78.66842	79.125968	object impact
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	79.623303	80.031118	object impact
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	80.677653	81.184935	object impact
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	88.038208	88.51565	object impact
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	90.057388	95.140149	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	90.674083	93.648145	dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	94.105693	94.911375	dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	95.279403	95.935885	dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	102.450971	103.047773	glass jingling
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	103.306387	103.873349	glass jingling
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	103.803722	109.145098	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	104.669084	107.772454	dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	109.781686	111.472625	dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	116.63496	117.241708	dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	118.534779	122.006176	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	122.44383	123.020739	glass jingling
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	125.746134	127.815046	dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	127.496752	132.798341	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	129.12801	132.798341	dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	133.743277	135.285015	dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	136.130484	137.602595	dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	137.602595	146.0175	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	140.278257	141.631007	dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	146.942543	148.364921	dishes
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	148.364921	149.727618	drawer
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	149.986232	150.433834	drawer
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	151.508077	151.975572	drawer
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	152.164559	153.477523	drawer
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	154.064378	158.550338	people walking
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	158.938259	159.346073	cupboard
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	162.200775	163.503792	cupboard
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	165.244464	168.41746	people walking
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	167.850499	168.32794	(object) snapping
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	170.386906	171.103068	glass jingling
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	171.272162	175.022067	people walking
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	175.0718	175.469668	object impact
+TUT-sound-events-2016-evaluation/audio/home/a033.wav	home	176.504124	177.3297	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	1.286753	6.232943	water tap running 
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	2.484252	3.153661	dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	7.616388	174.105876	water tap running 
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	8.256046	8.702319	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	9.46842	11.439458	cupboard
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	11.766725	12.153495	cupboard
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	13.484875	21.279772	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	24.106166	30.614311	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	31.499418	31.893626	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	32.258082	32.607662	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	33.686155	34.645641	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	35.523311	36.802626	dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	37.710047	38.282764	dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	38.68441	40.01579	dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	40.149672	43.124823	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	41.257916	44.776033	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	47.141278	47.617302	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	48.628854	53.716363	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	55.241129	58.558423	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	64.441785	65.453337	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	66.10787	68.748317	dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	75.992811	78.157234	dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	78.841519	79.25804	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	81.40015	81.99518	dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	83.475318	84.531497	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	85.275285	85.684368	(object) snapping
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	86.078576	87.67772	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	91.716488	92.995803	dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	93.412324	93.754467	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	94.483379	95.160226	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	97.674229	98.388266	drawer
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	98.537023	99.823776	cutlery
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	103.111319	104.680711	dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	105.201363	106.272418	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	110.08805	110.430192	(object) snapping
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	112.15578	112.817751	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	116.930898	117.734189	dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	119.102759	120.025056	dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	119.340771	124.896867	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	130.400898	131.241378	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	133.881825	134.595861	dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	136.455331	137.786712	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	137.846215	139.430483	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	142.554392	143.29818	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	143.446938	144.510554	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	145.50723	147.485706	cupboard
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	147.939417	148.274121	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	148.430317	149.255921	cupboard
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	153.101305	158.389637	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	159.274744	159.862337	dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	160.375551	161.699493	cupboard
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	164.548201	165.388681	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	166.05809	166.787002	dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	167.07708	167.575418	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	168.252265	172.305909	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	174.864539	175.303374	object impact
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	175.898404	177.118217	dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	177.17772	178.36778	dishes
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	178.628106	179.208261	(object) snapping
+TUT-sound-events-2016-evaluation/audio/home/a035.wav	home	180.428073	181.119796	(object) snapping
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	0.0	2.601028	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	3.542141	3.897837	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	3.779271	5.772652	drawer
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	5.08349	6.936074	people walking
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	6.995357	8.321807	cupboard
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	8.203242	9.396306	people walking
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	13.294143	14.020355	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	15.020751	16.006325	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	22.386625	23.16471	glass jingling
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	22.831245	23.305506	glass jingling
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	24.431877	26.529002	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	26.966212	27.36637	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	27.425653	28.863258	cupboard
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	29.033696	29.678395	cupboard
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	33.220536	45.247511	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	47.166788	49.249092	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	49.249092	51.901992	people walking
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	52.368844	54.540072	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	54.251069	55.229233	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	56.585325	57.000303	(object) snapping
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	58.437909	58.882529	(object) snapping
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	58.978863	60.994474	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	61.024116	65.803782	people walking
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	62.921162	64.707053	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	70.346318	70.902094	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	72.843602	73.354915	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	75.051882	76.904466	people walking
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	76.519128	76.99339	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	82.180625	83.855361	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	84.329622	84.774242	people walking
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	85.722765	87.182601	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	88.227459	88.620207	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	91.636213	92.147526	glass jingling
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	93.214615	93.888955	glass jingling
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	95.585922	96.149108	glass jingling
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	99.009497	99.417066	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	100.017303	103.507571	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	104.419043	104.826611	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	121.425763	122.581776	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	127.598573	130.281115	people walking
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	129.325181	129.688288	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	131.992902	133.282301	people walking
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	133.48979	133.897359	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	133.986283	135.008909	people walking
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	135.008909	138.751129	water tap running 
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	139.040132	141.263233	people walking
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	142.233987	145.657562	people walking
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	145.657562	146.50234	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	146.880267	147.673173	people walking
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	148.088152	149.59245	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	150.555794	151.163441	drawer
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	151.459855	158.42557	people walking
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	154.23132	155.127971	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	159.003577	160.070665	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	160.737595	161.834325	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	162.301176	163.108903	cupboard
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	163.405316	164.976307	people walking
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	165.117104	165.754393	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	166.250885	171.075014	people walking
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	168.251676	168.770399	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	175.417471	175.899142	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	176.795793	178.922559	object impact
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	176.995872	179.656183	people walking
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	179.656183	181.167891	drawer
+TUT-sound-events-2016-evaluation/audio/home/a037.wav	home	180.330523	180.841836	cutlery
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	0.170353	0.383293	object impact
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	3.410093	3.75384	object impact
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	3.75384	4.541721	people walking
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	5.034526	7.99136	people walking
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	7.99136	8.64235	object impact
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	21.154136	21.364034	dishes
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	37.368047	37.611408	object impact
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	38.14376	40.622998	people walking
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	40.775098	40.893737	object impact
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	41.17056	57.737344	water tap running 
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	43.421647	43.811024	dishes
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	44.687123	44.827055	dishes
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	47.008176	47.233285	dishes
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	47.723048	48.468341	object impact
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	49.125415	50.330051	dishes
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	51.498183	52.143089	dishes
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	54.190361	54.321168	object impact
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	60.791522	61.050093	(object) snapping
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	61.214362	61.631117	object impact
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	62.053956	62.768829	dishes
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	63.237298	67.051978	dishes
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	70.504659	71.812723	dishes
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	72.177765	74.626582	dishes
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	77.975835	78.788052	dishes
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	88.038803	88.997036	dishes
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	89.51722	91.27246	dishes
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	93.760824	94.551746	drawer
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	94.551746	95.513021	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	95.513021	96.611187	drawer
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	106.446004	108.657545	people walking
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	119.50231	119.846057	object impact
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	122.340505	123.669863	washing dishes
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	127.448039	128.196374	object impact
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	131.3844	133.732831	people walking
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	150.129264	151.601596	people walking
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	152.973543	154.430665	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	157.786002	158.549547	drawer
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	158.868958	159.717678	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	165.786488	166.130235	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	166.130235	166.4101	object impact
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	167.462635	167.827676	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	167.988903	168.171423	object impact
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	174.018166	174.383207	(object) snapping
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	179.658052	179.831447	(object) snapping
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	181.915223	182.225508	object impact
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	183.563992	183.862109	cupboard
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	199.677518	200.292004	glass jingling
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	200.574911	202.914216	people walking
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	202.914216	203.699055	drawer
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	210.671341	225.370332	water tap running 
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	216.901377	217.217746	object impact
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	229.288441	236.67444	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	238.574175	238.70194	(object) snapping
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	265.013803	265.135483	(object) snapping
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	266.881597	267.940216	object impact
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	268.725055	270.985268	people walking
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	271.441569	278.115739	water tap running 
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	272.609701	274.529209	dishes
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	277.796328	278.447318	dishes
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	279.512021	279.95007	dishes
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	280.737951	282.143359	people walking
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	283.682616	284.85379	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	285.103235	285.872863	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	286.06451	291.628346	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	293.347081	293.517434	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	294.016323	295.878033	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	298.898749	301.539213	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	303.187983	304.769828	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	306.509857	308.091702	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	310.677411	312.177121	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	314.948392	317.080841	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	318.951677	323.721548	(object) rustling
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	325.236469	326.501945	people walking
+TUT-sound-events-2016-evaluation/audio/home/b043.wav	home	330.669498	330.845935	(object) snapping
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	3.846287	5.682437	people talking
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	6.144430	6.355579	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	7.089532	8.290547	people talking
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	7.526188	7.760986	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	8.487337	8.741561	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	8.866561	9.673994	people talking
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	13.226361	13.398659	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	14.569268	14.742410	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	14.777038	14.995788	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	15.785485	15.981431	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	16.581938	16.831938	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	16.966229	17.114033	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	17.146972	17.278729	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	17.356432	17.622480	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	17.690892	17.934980	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	18.543933	18.789710	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	18.980589	19.267751	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	20.123326	20.586164	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	20.791401	21.842922	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	21.620793	21.781266	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	22.857281	23.109815	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	23.153734	23.521977	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	23.548160	24.253397	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	24.621640	24.772823	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	24.796471	25.034647	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	25.146134	25.331100	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	25.820965	25.987351	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	26.871642	27.001710	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/347.wav	office	27.554075	27.767757	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	0	30	fan
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	0.725507	0.850507	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	3.704395	3.805746	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	4.380071	4.627537	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	7.211999	7.29308	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	7.497472	7.572641	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	7.673992	7.76183	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	8.417236	8.597979	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	8.709466	8.804061	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	10.027035	10.14021	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	12.170617	12.291394	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	13.540551	13.605585	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	13.717071	13.821801	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	14.712004	14.808288	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	14.905417	15.036329	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	15.226363	15.320113	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	15.701025	15.797309	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	15.891904	16.001701	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	16.081093	16.182445	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	17.026195	17.206939	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	17.345452	17.451871	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	17.657108	18.157108	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	18.015216	18.085318	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	18.908798	19.223832	(object) squeaking
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	23.091234	23.222146	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	23.804072	23.940896	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	24.069275	24.119106	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	25.745796	25.805763	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	25.903736	26.025358	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	26.059986	26.157959	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	26.401202	26.445121	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	26.689209	26.855595	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	27.068433	27.161338	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	27.300696	27.391068	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	28.260156	28.354751	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	28.396136	28.717927	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	28.817589	29.715394	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/202.wav	office	29.822658	30.000000	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	0.416385	0.553210	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	1.140204	1.771116	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	1.814191	1.957772	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	2.088684	6.257606	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	5.820106	6.293079	breathing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	6.484802	9.034635	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	11.161326	11.513522	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	11.774502	11.995786	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	12.075178	12.157948	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	12.532949	12.807442	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	13.729740	14.015213	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	14.271970	14.396970	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	15.478897	15.559978	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	15.685823	15.760147	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	16.157107	16.467918	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	19.469609	19.755082	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	19.779576	20.112346	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	21.130928	21.245793	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	21.378395	21.473834	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	22.284645	22.355591	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	23.274511	23.646133	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	25.335323	25.489040	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	25.704411	26.004243	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	26.103060	26.172317	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	26.240729	26.364040	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	26.618263	26.665561	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	27.344615	27.587859	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	27.730595	27.831102	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	29.243265	29.581103	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/276.wav	office	29.775360	29.849685	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	0.234797	0.459460	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	0.782095	0.890203	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	0.953548	1.195102	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	1.306589	1.519427	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	1.661319	1.832772	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	2.030407	2.413853	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	4.543078	4.621625	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	4.635983	4.726355	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	4.790544	4.883450	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	5.997471	6.074329	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	6.091221	6.177370	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	6.348822	6.470444	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	6.506762	6.638519	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	7.173147	7.290546	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	7.488181	7.590377	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	8.286324	8.498317	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	9.526190	9.756764	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	10.342069	10.565042	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	10.606427	10.675684	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	12.490719	12.793084	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	13.737341	13.792240	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	23.742417	24.070120	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	24.766066	24.887688	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/360.wav	office	28.980596	29.088704	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	0.000000	0.091216	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	1.430744	1.614021	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	2.473819	2.714529	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	4.516895	4.673145	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	4.725510	4.883450	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	4.945105	5.076862	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	7.450175	7.520276	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	13.515213	13.628389	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	14.392747	14.562511	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	15.369099	15.804066	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	16.456094	16.739878	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	17.345452	17.523662	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	17.773662	17.939203	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	19.226366	19.347143	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	19.508461	19.619103	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	19.896130	19.986502	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	20.538022	20.649509	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	22.892754	22.983970	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	25.513533	25.663026	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	26.265223	26.430763	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	26.916405	27.166406	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	28.436677	28.592927	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	28.780427	28.946812	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/379.wav	office	29.249178	29.525360	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/236.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/236.wav	office	2.053211	2.113177	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/236.wav	office	2.98311	3.301523	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/236.wav	office	8.860649	8.976358	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/236.wav	office	10.012676	10.114873	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/236.wav	office	11.695955	11.781259	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/236.wav	office	13.158794	13.263524	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/236.wav	office	20.478056	20.54309	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/236.wav	office	21.950186	22.028733	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/236.wav	office	25.835324	25.91556	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/236.wav	office	26.251709	26.338702	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/236.wav	office	26.361506	26.451034	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/164.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/164.wav	office	5.119936	5.182436	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/164.wav	office	6.885985	7.222978	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/164.wav	office	11.024502	11.554907	people talking
+TUT-acoustic-scenes-2016-evaluation/audio/164.wav	office	15.040552	15.110653	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/164.wav	office	18.654575	18.871636	people talking
+TUT-acoustic-scenes-2016-evaluation/audio/164.wav	office	19.435826	19.753393	people talking
+TUT-acoustic-scenes-2016-evaluation/audio/164.wav	office	19.777887	20.089542	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/164.wav	office	19.831941	20.14613	people talking
+TUT-acoustic-scenes-2016-evaluation/audio/164.wav	office	21.456942	21.504239	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/164.wav	office	25.970459	26.313364	people talking
+TUT-acoustic-scenes-2016-evaluation/audio/164.wav	office	26.367419	26.774513	people talking
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	0.355575	0.704392	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	1.407096	1.616555	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	1.63767	1.744089	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	1.923143	1.984799	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	2.109799	2.546455	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	2.620779	2.80659	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	3.114867	3.397807	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	3.457773	4.101354	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	4.564193	4.964531	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	4.994936	5.201017	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	5.276186	5.346288	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	5.398653	5.592065	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	5.690883	5.972133	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	6.069261	6.483113	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	6.557437	6.919769	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	7.921459	8.000851	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	8.240716	8.311662	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	9.276189	9.510142	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	10.189197	10.385988	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	10.616562	10.836157	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	12.95778	13.150348	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	13.360652	13.613186	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	15.017748	15.095451	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	15.331937	15.4941	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	16.103897	19.967076	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	16.386837	16.513526	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	16.914709	17.419777	(object) squeaking
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	17.525351	17.74748	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	17.837851	18.201027	(object) squeaking
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	18.002547	18.115723	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	18.423156	18.592919	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	18.765217	18.850521	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	19.339542	19.621636	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	22.467078	22.646132	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	22.844612	22.981436	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/154.wav	office	23.635998	23.837011	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	0	0.673987	people talking
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	0.515203	0.670609	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	0.685811	1.614866	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	1.670609	1.966218	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	2.532097	2.614022	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	3.70355	3.837841	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	4.117402	4.358111	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	4.27703	4.643585	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	5.409632	5.485646	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	5.612335	5.757606	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	5.774498	5.931592	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	6.527877	6.67737	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	6.850512	7.016053	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	9.887676	10.154568	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	12.126698	12.3218	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	13.378388	13.934977	people talking
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	14.874167	15.014369	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	15.315045	15.423998	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	15.965384	16.073492	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	16.760148	17.101364	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	17.220452	17.42231	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	18.229744	18.347142	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	18.78971	18.847143	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	20.371637	20.426536	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	20.898664	21.005928	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	21.076874	21.150354	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	21.789712	21.904577	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	21.934138	22.038023	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	23.322653	23.398666	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	25.67654	26.25931	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	26.288871	26.727216	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	26.763534	27.105595	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	27.160494	27.809987	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	27.84546	28.098839	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	28.279582	28.3784	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/151.wav	office	29.346306	29.876712	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/180.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/180.wav	office	8.782946	8.929905	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/180.wav	office	12.788861	12.945956	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/180.wav	office	14.861498	15.103897	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/180.wav	office	20.084475	20.326029	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/180.wav	office	20.808293	20.904577	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/180.wav	office	23.044781	23.45272	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/180.wav	office	25.504242	25.61235	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/219.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/219.wav	office	3.974665	4.131760	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/219.wav	office	4.185814	4.342064	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/219.wav	office	4.643585	4.858956	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/219.wav	office	5.159632	5.413855	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/219.wav	office	6.756762	6.932438	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/219.wav	office	7.051526	7.292235	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/219.wav	office	8.058283	8.185817	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/219.wav	office	9.032101	9.230581	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/219.wav	office	9.319264	9.544771	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/219.wav	office	15.515214	15.798998	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/219.wav	office	19.356434	19.880927	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/219.wav	office	20.077718	20.132617	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/219.wav	office	22.418936	22.905423	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/219.wav	office	23.213700	23.360660	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	0.145270	0.663007	(object) squeaking
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	0.309122	0.762669	people talking
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	4.678213	4.764362	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	4.800679	4.905409	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	8.132607	9.057439	people talking
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	10.136832	10.929062	people talking
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	10.924839	11.173150	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	11.684975	11.744941	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	12.877544	13.298997	people talking
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	13.335314	14.131767	people talking
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	14.723829	14.847140	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	15.368255	15.441735	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	16.443425	16.549844	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	17.483121	17.572648	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	17.669777	18.497480	(object) squeaking
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	18.169777	18.265217	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	18.728055	18.980589	(object) squeaking
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	19.390217	19.527042	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	19.868258	19.976366	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	21.467922	21.904577	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	25.162181	25.284647	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	25.778736	25.902047	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/148.wav	office	28.549853	28.775360	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	0.199324	0.341216	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	0.476352	0.621622	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	0.672298	0.831082	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	1.340373	1.597974	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	1.881758	1.966218	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	2.323481	2.545610	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	2.914698	3.030408	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	3.159631	3.478043	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	3.581928	3.766895	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	4.268584	4.364024	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	4.418922	4.612335	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	4.843754	5.152031	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	5.602200	5.892741	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	6.137674	6.228890	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	6.254228	6.502539	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	6.641052	7.051526	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	7.376695	7.725513	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	8.253385	8.352202	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	8.555750	8.828554	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	13.094604	13.358963	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	13.398659	13.719605	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	13.792240	13.931598	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	14.162173	14.425687	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	16.508458	16.760148	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	17.888527	18.138527	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	18.576028	18.801534	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	20.230590	20.434982	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	21.867415	22.130929	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	26.270290	26.498331	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	26.947656	27.156271	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/371.wav	office	28.851373	29.762691	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	0	30	fan
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	1.437501	1.559123	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	3.252536	3.364867	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	3.383449	3.494935	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	5.792234	5.994092	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	6.923147	7.081931	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	7.718756	7.953553	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	8.048148	8.15879	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	9.303216	9.545615	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	10.478048	10.701866	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	10.938353	11.081089	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	11.125853	11.265211	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	12.587847	12.808287	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	12.873321	13.015213	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	13.209469	13.440044	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	13.982274	14.362342	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	14.728896	14.990721	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	17.635148	18.224676	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	19.152886	19.298156	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	19.406265	19.531265	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	19.960319	19.989035	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	23.924005	24.052383	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	24.065052	24.179917	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	24.730593	24.97637	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	27.282115	27.380088	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	27.39698	27.517757	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	27.83617	27.990731	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/382.wav	office	29.972996	30.000000	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	0	0.217061	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	3.26605	3.494935	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	3.7348	3.87078	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	4.733112	4.873314	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	5.127538	5.259295	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	5.264362	5.364869	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	5.400342	5.465376	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	6.059971	6.29139	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	7.215377	7.347134	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	7.656256	7.815884	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	8.034634	8.174837	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	8.334466	8.639365	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	8.86825	9.028723	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	9.988183	10.123318	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	11.287171	11.397813	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	11.419772	11.646124	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	12.846293	13.02028	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	14.081936	14.288018	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	14.508457	14.698491	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	15.595451	15.77535	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	15.828559	16.010992	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	16.366566	16.746634	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	17.247479	17.337851	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	17.357277	17.454405	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	17.737344	17.80998	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	18.635149	18.779575	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	18.825183	19.157954	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	19.350521	19.766062	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	19.84292	20.111502	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	24.444275	25.07012	(object) squeaking
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	24.486505	24.646978	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	25.076032	25.233127	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	25.672317	26.080256	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	26.440898	26.801541	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	26.868264	27.16725	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	27.221304	29.491576	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/105.wav	office	29.635158	30.000000	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	0.655406	0.850507	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	3.947638	4.015206	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	5.043078	5.129227	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	5.394430	5.521964	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	11.135988	11.248319	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	13.677375	13.782105	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	18.329406	18.511838	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	18.606433	18.775352	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	18.927379	19.079406	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	21.238192	21.363192	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	21.770287	21.878395	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	25.325188	25.384310	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	26.288027	26.366574	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	26.715392	26.788027	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	27.201879	27.267757	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	27.651203	27.734818	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	28.090393	28.156271	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/354.wav	office	28.540562	28.643603	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	0.739865	1.444258	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	1.566724	1.696792	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	1.941724	2.503380	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	2.602198	3.179056	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	3.304057	3.594597	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	4.192571	4.383449	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	4.621625	5.059970	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	5.591220	5.687504	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	6.388518	6.569262	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	6.871627	6.917235	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	7.440039	7.505918	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	8.003384	8.130074	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	8.934128	9.097135	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	9.337845	9.514365	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	9.665548	10.317575	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	10.419771	10.693420	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	10.746630	11.016056	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	11.418928	11.551529	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	11.734806	11.869941	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	11.951867	12.320111	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	12.333624	12.571800	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	12.636834	13.079402	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	14.098828	14.269436	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	14.826869	14.968761	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	15.121633	15.441735	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	15.510991	15.737343	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	15.810823	15.875012	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	17.315891	17.967919	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	17.593763	20.301536	people talking
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	20.825185	20.880083	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	20.989036	21.282955	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	21.668935	21.827719	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	22.296470	22.533801	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	22.937517	23.054916	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	23.136842	23.474680	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	23.582788	23.911336	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	24.216235	24.349681	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	24.805762	24.939208	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	24.967924	25.162181	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	25.343769	25.467925	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	25.507621	26.026202	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	26.233973	26.554919	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	27.038027	27.158804	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	27.703568	27.815899	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	27.851372	28.024514	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	28.085325	28.372488	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	28.412184	28.610664	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	28.691745	28.775360	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	28.870799	29.036340	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/339.wav	office	29.829414	30.000000	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/106.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/106.wav	office	3.590374	4.910477	breathing
+TUT-acoustic-scenes-2016-evaluation/audio/106.wav	office	4.931592	5.156254	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/106.wav	office	10.757609	10.90288	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/106.wav	office	13.900348	14.0642	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/106.wav	office	18.13177	18.248325	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/106.wav	office	18.288865	18.416399	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/106.wav	office	20.832786	21.077719	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/106.wav	office	22.413024	22.510997	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/106.wav	office	23.135997	23.19343	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/106.wav	office	25.219614	25.516067	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	2.438346	2.566725	breathing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	4.274496	4.441726	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	4.668922	4.761828	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	5.21622	5.318416	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	5.546457	5.65541	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	5.945106	6.001694	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	6.329397	6.417235	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	6.762674	6.842066	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	8.417236	8.484804	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	8.519432	8.582777	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	9.451865	9.508453	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	9.836156	10.034636	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	10.064197	10.267744	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	10.937508	11.181596	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	11.345448	12.064198	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	13.347138	13.543085	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	13.886835	14.081092	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	14.212004	14.45947	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	14.632612	15.05491	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	15.144437	15.307444	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	15.418086	15.644438	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	15.850519	15.907107	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	16.074336	16.353053	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	17.151195	17.374169	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	17.399506	17.527885	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	18.725521	19.39444	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	19.26015	19.429069	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	19.617413	19.699339	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	19.723832	20.004238	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	20.321806	20.769441	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	20.777043	21.004239	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	20.916401	21.233969	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	21.646976	21.725523	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	21.89951	22.025354	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	22.135152	22.324341	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	22.551537	22.677382	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	22.755929	23.238193	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	23.269443	23.671471	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	23.905423	24.065052	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	24.500863	24.724681	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	25.116573	25.346303	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	25.407114	25.627553	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	25.65458	26.016912	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	26.288027	26.527892	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	26.552385	26.780426	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	26.956946	27.197656	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	27.218771	28.069278	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	28.769447	28.984819	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	29.179921	29.512691	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/209.wav	office	29.695124	29.878401	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	4.335307	4.402875	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	5.00845	5.131761	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	5.097977	5.203551	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	5.306592	5.407943	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	5.441727	5.578552	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	5.629227	5.741558	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	6.137674	6.26014	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	6.468755	6.589532	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	6.668079	6.803215	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	6.809971	6.929059	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	7.228891	7.361492	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	7.738182	7.967067	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	8.237337	8.402033	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	8.768588	8.997473	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	9.304906	9.522811	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	9.817575	10.020278	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	10.363184	10.573488	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	10.925684	11.128387	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	11.464536	11.701022	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	11.989874	12.208624	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	12.536327	12.767746	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	13.065044	13.284638	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	13.581091	13.822646	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	14.116565	14.327714	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	14.64866	14.966228	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	15.203559	15.627546	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	15.755924	16.00339	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	16.288864	16.53633	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	16.802378	17.061668	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	17.363189	17.638527	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	17.885993	18.202716	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	18.454406	18.719609	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	18.96792	19.239035	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	19.504238	19.78211	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	20.032954	20.300691	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	20.59461	20.827718	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	21.10559	21.341232	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	21.66978	21.885996	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	22.214544	22.404578	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	22.76522	23.028734	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	23.284646	23.561673	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	23.825187	24.082788	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	24.359816	24.584478	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	24.944276	25.0811	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	25.464546	25.601371	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	26.02029	26.121641	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	26.109817	26.254243	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	26.543939	26.690899	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	27.020291	27.201879	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/346.wav	office	29.246644	29.349684	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/211.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/211.wav	office	7.619938	7.836155	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/211.wav	office	8.328554	8.406256	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/211.wav	office	10.131764	10.21369	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/211.wav	office	13.320111	13.341226	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/211.wav	office	19.67738	19.765218	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/211.wav	office	21.498327	21.581097	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/211.wav	office	23.456943	23.477214	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/211.wav	office	23.904579	24.006775	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/211.wav	office	25.179918	25.273668	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/211.wav	office	25.242418	25.316742	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/211.wav	office	25.717925	25.83279	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/211.wav	office	26.261844	26.320966	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/211.wav	office	26.804074	26.934987	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/211.wav	office	27.380933	27.489886	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/211.wav	office	27.891913	27.993264	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/211.wav	office	28.411339	28.501711	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/211.wav	office	29.847151	29.938367	people walking
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	0.609798	0.809967	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	2.748313	3.000002	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	5.431592	5.708619	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	6.668079	6.849667	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	8.197641	8.404567	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	9.79646	10.073487	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	10.380075	10.701022	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	13.258456	13.358963	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	13.552375	13.629233	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	13.719605	13.787173	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	14.375855	14.529572	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	14.877545	15.138525	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	17.983966	18.235656	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	19.025352	19.104744	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	19.191737	19.293934	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	19.937515	20.383461	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	20.408799	20.597989	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	20.755083	21.005083	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	21.237347	21.778733	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	21.811672	22.247483	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	22.39951	22.521132	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	22.666402	23.034646	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	23.278734	23.601369	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	24.161336	24.502552	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	24.889377	24.978059	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	25.597148	26.12502	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	26.347993	26.547317	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	26.58279	26.655426	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	27.47046	28.383467	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	29.063367	29.141914	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/388.wav	office	29.204414	29.274515	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	0.331081	0.516048	(object) rustling
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	1.358109	1.482265	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	1.901184	2.077704	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	2.402873	2.677367	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	2.856421	2.918921	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	3.262671	3.579395	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	3.857266	4.019429	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	4.065037	4.149496	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	4.237334	4.333618	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	4.561659	4.756760	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	5.324328	5.566727	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	5.935815	6.006761	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	6.440883	6.730579	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	8.435817	8.519432	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	10.007609	10.086156	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	11.080245	11.166394	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	18.895285	19.038021	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	19.625859	19.686670	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	21.358969	21.570962	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	22.078564	22.399510	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	23.207788	23.385997	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	23.768599	23.863194	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/268.wav	office	28.316744	28.543096	keyboard typing
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	0.885136	1.04392	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	4.564193	4.679902	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	4.794767	5.096288	breathing
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	5.687504	5.978045	(object) squeaking
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	6.288012	6.357268	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	7.646121	7.725513	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	7.750006	7.861492	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	8.626696	9.016054	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	9.252541	9.326865	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	11.451867	11.568421	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	12.192577	12.294773	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	12.546462	12.714537	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	13.589537	13.723828	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	14.54393	14.750856	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	14.853896	15.057444	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	15.608965	15.679066	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	15.8066	15.908796	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	16.222141	16.367411	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	17.029574	17.17231	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	18.096297	18.326872	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	18.718764	18.877548	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	19.634305	19.812515	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	20.077718	20.303225	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	20.68836	20.862347	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	21.097144	21.271976	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	21.652888	21.818429	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	22.109814	22.287179	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/131.wav	office	23.107281	23.311673	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/94.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/94.wav	office	4.065881	4.082773	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/94.wav	office	7.554904	7.681594	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/94.wav	office	7.713688	7.820952	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/94.wav	office	7.998317	8.097134	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/94.wav	office	13.236496	13.474672	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/94.wav	office	14.332781	14.565889	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/94.wav	office	14.716227	14.809133	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/94.wav	office	22.69174	22.822652	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/94.wav	office	23.178227	23.319274	mouse clicking
+TUT-acoustic-scenes-2016-evaluation/audio/94.wav	office	23.806606	23.97468	mouse wheeling
+TUT-acoustic-scenes-2016-evaluation/audio/94.wav	office	29.123333	29.247488	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/128.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-evaluation/audio/128.wav	office	0.800676	0.860643	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/128.wav	office	1.728886	1.782941	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/128.wav	office	10.907947	10.988184	(object) impact
+TUT-acoustic-scenes-2016-evaluation/audio/128.wav	office	26.308297	26.489885	mouse clicking
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	0.184586	3.909861	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	0.184586	0.469855	people speaking
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	5.285864	38.343489	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	57.070549	60.779044	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	61.735534	69.504915	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	61.735534	64.957394	people walking
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	62.356413	62.742365	(object) banging
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	63.044415	63.514269	people speaking
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	79.254397	79.942398	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	86.201532	109.325089	people speaking
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	87.0909	96.068478	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	97.276676	112.043534	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	117.39652	119.34306	wind blowing
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	120.282769	132.163377	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	127.162782	127.531954	(object) banging
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	134.982505	135.720848	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	146.460381	165.47271	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	148.70897	152.182538	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	159.599528	163.22412	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	187.975388	189.401732	people walking
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	193.731106	195.610524	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a008.wav	residential_area	199.738532	200.376192	(object) banging
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	0.422257	4.400853	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	60.279483	61.170914	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	62.648812	68.124073	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	79.919109	95.871027	people walking
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	90.97285	96.058696	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	96.058696	101.557416	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	105.165365	106.793399	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	125.269473	129.018174	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	130.847953	135.028294	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	135.77428	136.374823	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	137.158344	143.388975	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	137.411698	138.157685	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	139.208634	140.545781	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	142.356792	146.926548	wind blowing
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	146.429223	147.071992	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	149.41317	158.52453	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	154.930657	156.507082	people speaking
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	188.673655	189.865357	wind blowing
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	194.782302	201.505566	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	198.864116	203.020998	people speaking
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	203.34942	208.519718	people speaking
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	213.122315	213.591489	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	217.462175	225.053412	people speaking
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	225.466285	226.113745	people speaking
+TUT-sound-events-2016-evaluation/audio/residential_area/a009.wav	residential_area	226.292031	228.065509	people speaking
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	4.113191	4.183398	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	5.017642	6.009134	(object) banging
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	6.863707	15.084523	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	15.48133	16.042269	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	16.404193	22.341752	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	22.67825	34.689759	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	35.437763	43.041106	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	39.264264	60.956752	people walking
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	52.726788	75.284684	wind blowing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	55.582093	55.785132	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	57.029534	57.655796	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	58.288891	58.587629	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	65.163719	76.631349	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	65.92534	82.608811	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	87.40955	96.029224	people walking
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	92.174143	93.580256	wind blowing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	95.092894	100.933123	people walking
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	105.609386	121.699111	people walking
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	108.539003	118.715747	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	118.075456	120.529904	wind blowing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	118.565461	120.003328	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	120.030795	121.56241	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	125.633035	128.510084	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	128.544039	129.670133	children shouting
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	130.819746	133.67387	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	130.905527	133.306617	wind blowing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	134.527815	139.576978	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	140.459579	140.816344	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	142.118753	145.849746	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	148.223727	152.894522	wind blowing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	149.884492	152.712826	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	155.833214	157.691028	children shouting
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	157.094307	159.071562	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	158.632061	160.140625	people speaking
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	160.243586	161.197827	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	161.696439	163.438715	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	163.713812	167.762885	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	168.323664	173.932949	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	174.110159	177.947179	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	174.559043	177.219171	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	178.97056	187.383277	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	179.688899	180.547471	children shouting
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	184.163289	186.352805	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	189.055278	189.403602	children shouting
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	191.204434	192.723912	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	192.992087	194.521104	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	195.010394	196.178563	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	196.481906	196.74064	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	197.061385	200.309943	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b005.wav	residential_area	200.594649	200.667066	(object) banging
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	1.38434	1.903468	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	3.936718	4.109761	people speaking
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	5.698606	10.374688	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	10.374688	15.691814	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	12.549518	16.60422	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	21.473009	31.96568	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	29.011481	29.198479	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	32.938913	33.345834	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	34.653174	34.765726	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	42.010014	42.969614	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	45.396143	58.799076	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	62.059355	68.965326	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	68.225962	72.143017	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	70.506978	77.648916	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	76.033522	76.062201	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	78.112985	78.750096	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	82.362434	82.713078	(object) banging
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	89.678344	93.119853	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	92.176626	94.15875	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	95.4723	95.88131	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	103.052744	104.568833	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	114.086174	120.500547	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	116.005373	116.496971	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	124.519854	125.50305	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	126.383994	133.809093	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	133.872018	138.890252	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	136.357538	141.281385	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	139.920642	144.474807	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	143.098332	145.804089	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	144.372555	152.269588	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	150.9875	160.693615	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	156.654644	195.372917	people walking
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	165.24778	166.879886	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	171.583497	172.169483	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	172.744231	173.010461	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	174.045421	174.308918	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	176.035411	179.968196	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	181.767909	185.633654	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	186.352258	186.451823	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	187.672585	195.239574	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	196.733059	198.542556	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	197.200584	203.698325	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	204.890258	210.42762	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	209.342171	212.84235	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	211.316429	216.397588	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b006.wav	residential_area	219.369092	222.62712	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	0.580928	35.302543	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	6.0774	7.239256	children shouting
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	11.91647	12.810205	children shouting
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	14.508302	15.759532	people walking
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	18.165169	20.406955	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	31.712706	32.852219	children shouting
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	39.09347	39.234978	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	52.264894	52.477156	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	54.547642	56.573442	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	60.543117	62.878	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	80.801116	81.017102	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	82.797125	83.854711	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	85.444815	85.537913	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	86.468887	86.666254	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	88.058991	88.241462	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	90.200232	90.390151	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	93.190521	93.376716	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	95.089709	95.38762	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	96.236669	99.137584	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	99.513698	99.815334	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	102.250762	102.943407	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	106.388012	106.819984	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	109.147419	109.352234	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	111.772767	114.025724	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	116.468601	116.826095	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	117.924645	122.00976	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	121.719296	125.324028	people walking
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	126.597601	127.249283	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	127.62912	130.638029	people walking
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	129.126127	136.685637	car passing by
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	135.430684	152.69467	people walking
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	143.407271	143.51154	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	145.194742	145.26922	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	147.339707	147.42908	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	148.084486	148.74734	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	148.888848	150.281585	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	153.759705	154.258707	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	165.311233	165.72831	children shouting
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	169.84694	172.230234	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	171.12796	171.87274	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	175.872205	176.140326	(object) banging
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	178.866218	179.320534	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	180.31109	180.534524	(object) banging
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	187.825914	189.553802	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	195.623754	197.366538	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	200.338208	201.261734	bird singing
+TUT-sound-events-2016-evaluation/audio/residential_area/b008.wav	residential_area	207.867927	209.554853	bird singing
