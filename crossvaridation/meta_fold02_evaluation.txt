@@ -1,0 +1,1030 @@
+path	scene_label	event_start_time	event_end_time	event_label
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	0.0	65.024478	people walking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	0.295063	51.291761	people speaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	7.364277	20.150335	car
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	59.23387	68.688176	large vehicle
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	78.830962	90.363002	people walking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	84.916633	92.182556	car
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	91.358839	113.045959	people walking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	92.502207	100.038605	large vehicle
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	98.73541	100.960676	brakes squeaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	99.891073	185.434715	large vehicle
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	99.891073	103.554771	people speaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	108.460191	121.541311	large vehicle
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	115.553994	137.31488	people walking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	118.627565	121.369191	people speaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	121.897845	126.250022	large vehicle
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	125.635308	130.77432	brakes squeaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	131.450505	133.208588	brakes squeaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	134.21672	136.11004	brakes squeaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	136.675577	143.609554	large vehicle
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	143.400551	166.821166	people walking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	152.80568	163.292706	car
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	166.907226	175.722229	people walking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	173.792026	174.578861	people speaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	178.513032	180.590766	people walking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	179.545752	183.049624	children
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	182.779149	192.454752	large vehicle
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	191.803155	207.109541	people walking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	200.126387	213.883693	large vehicle
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	200.446038	201.773821	people speaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	213.883693	248.393753	large vehicle
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	215.678658	300.570703	people walking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	222.956876	227.35823	people speaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	224.997727	240.156582	large vehicle
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	227.653293	227.997533	brakes squeaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	248.393753	265.691814	large vehicle
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	267.056479	268.310497	large vehicle
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	270.990651	271.851251	brakes squeaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	274.568288	275.551831	brakes squeaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	281.51456	282.03092	brakes squeaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	284.600425	299.033917	large vehicle
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	297.558603	300.570703	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	0.0	5.532196	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	17.477385	27.472945	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	27.472945	30.808097	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	32.896278	38.55713	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	38.55713	46.395232	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	48.503207	51.511771	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	52.263912	54.569819	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	55.856376	59.013389	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	59.013389	61.71516	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	61.71516	63.654892	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	63.654892	66.237903	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	66.831699	69.117812	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	70.622094	77.005397	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	78.074229	81.686486	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	82.636559	86.100367	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	87.02075	90.286626	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	90.989284	92.562843	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	92.562843	95.15575	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	95.413062	106.665489	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	107.932253	112.811274	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	120.975964	125.092947	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	128.170787	130.872558	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	130.872558	140.996773	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	140.996773	144.9851	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	145.954967	150.07195	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	151.239748	155.020247	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	155.020247	160.027923	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	161.215514	164.085527	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	165.9065	173.60605	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	201.257133	235.469658	car
+TUT-sound-events-2017-development/audio/street/b091.wav	city_center	238.092256	241.951927	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	4.753563	11.544367	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	10.343674	11.436107	brakes squeaking
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	14.280372	15.205496	brakes squeaking
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	15.746792	22.50807	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	24.240217	25.135816	brakes squeaking
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	25.480277	26.90733	brakes squeaking
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	26.434926	29.072514	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	30.046847	35.499173	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	32.930478	33.580033	brakes squeaking
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	34.081962	40.046059	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	37.979293	47.515944	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	48.942997	54.729942	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	53.106055	56.196362	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	56.12747	60.536572	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	60.408629	73.517833	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	71.165656	72.356507	brakes squeaking
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	73.517833	74.561058	brakes squeaking
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	74.905519	82.513188	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	87.060074	121.486497	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	107.481694	117.067554	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	114.557909	122.588772	people walking
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	121.112511	132.056531	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	125.433037	127.342335	brakes squeaking
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	128.907172	129.389418	brakes squeaking
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	131.052673	133.985513	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	133.818203	140.500748	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	142.154161	149.535469	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	147.911581	148.600504	people walking
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	149.535469	155.489725	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	152.852137	156.513266	people walking
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	154.84017	164.54413	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	162.260845	167.565546	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	166.315644	166.79789	brakes squeaking
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	167.221085	173.982363	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	193.774112	204.324462	people walking
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	198.38989	205.525155	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	204.08826	209.058341	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	206.578222	214.057948	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	213.231241	216.282182	people walking
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	215.347216	221.045587	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	218.860719	224.470514	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	222.738367	226.045193	car
+TUT-sound-events-2017-development/audio/street/b098.wav	city_center	225.159436	232.993465	car
+TUT-sound-events-2016-development/audio/home/a031.wav	home	0.879372	1.522274	object impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	2.261242	4.411638	people walking
+TUT-sound-events-2016-development/audio/home/a031.wav	home	4.685056	5.305789	object impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	5.379686	7.145819	people walking
+TUT-sound-events-2016-development/audio/home/a031.wav	home	6.517696	6.901960	object impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	8.409454	10.692865	water tap running 
+TUT-sound-events-2016-development/audio/home/a031.wav	home	12.658519	14.542887	water tap running 
+TUT-sound-events-2016-development/audio/home/a031.wav	home	20.476799	20.979297	object impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	22.361167	22.723261	object impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	23.388332	23.979506	object impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	24.748033	25.065789	object impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	25.361376	26.144682	water tap running 
+TUT-sound-events-2016-development/audio/home/a031.wav	home	26.758025	27.134899	object impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	28.280299	31.923411	water tap running 
+TUT-sound-events-2016-development/audio/home/a031.wav	home	33.726492	35.751264	washing dishes
+TUT-sound-events-2016-development/audio/home/a031.wav	home	35.751264	36.157696	washing dishes
+TUT-sound-events-2016-development/audio/home/a031.wav	home	37.066627	41.086612	washing dishes
+TUT-sound-events-2016-development/audio/home/a031.wav	home	41.973373	42.283740	glass jingling
+TUT-sound-events-2016-development/audio/home/a031.wav	home	42.187674	48.468901	washing dishes
+TUT-sound-events-2016-development/audio/home/a031.wav	home	42.978369	43.177891	(object) snapping
+TUT-sound-events-2016-development/audio/home/a031.wav	home	50.249813	52.769693	people walking
+TUT-sound-events-2016-development/audio/home/a031.wav	home	50.501062	53.050501	washing dishes
+TUT-sound-events-2016-development/audio/home/a031.wav	home	53.198295	53.981601	object impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	54.727958	61.718594	water tap running 
+TUT-sound-events-2016-development/audio/home/a031.wav	home	65.369095	66.965266	cutlery
+TUT-sound-events-2016-development/audio/home/a031.wav	home	69.507315	70.290621	dishes
+TUT-sound-events-2016-development/audio/home/a031.wav	home	71.635542	74.458399	water tap running 
+TUT-sound-events-2016-development/audio/home/a031.wav	home	77.946328	79.993269	object impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	81.057382	97.669379	washing dishes
+TUT-sound-events-2016-development/audio/home/a031.wav	home	97.721107	99.250770	dishes
+TUT-sound-events-2016-development/audio/home/a031.wav	home	99.428123	103.861930	washing dishes
+TUT-sound-events-2016-development/audio/home/a031.wav	home	104.497442	104.896485	(object) snapping
+TUT-sound-events-2016-development/audio/home/a031.wav	home	107.327689	118.308751	water tap running 
+TUT-sound-events-2016-development/audio/home/a031.wav	home	120.747345	122.653882	cutlery
+TUT-sound-events-2016-development/audio/home/a031.wav	home	131.624951	133.169394	water tap running 
+TUT-sound-events-2016-development/audio/home/a031.wav	home	133.590606	135.253283	object impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	135.423246	136.021810	object impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	140.108302	140.729035	object impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	142.170022	155.700524	washing dishes
+TUT-sound-events-2016-development/audio/home/a031.wav	home	142.421272	142.812924	dishes
+TUT-sound-events-2016-development/audio/home/a031.wav	home	149.892236	154.865490	dishes
+TUT-sound-events-2016-development/audio/home/a031.wav	home	155.700524	156.469050	washing dishes
+TUT-sound-events-2016-development/audio/home/a031.wav	home	156.823755	157.547943	dishes
+TUT-sound-events-2016-development/audio/home/a031.wav	home	157.392760	162.284727	washing dishes
+TUT-sound-events-2016-development/audio/home/a031.wav	home	162.624652	164.058250	dishes
+TUT-sound-events-2016-development/audio/home/a031.wav	home	163.976963	167.043680	washing dishes
+TUT-sound-events-2016-development/audio/home/a031.wav	home	167.376215	167.775258	(object) snapping
+TUT-sound-events-2016-development/audio/home/a031.wav	home	168.654630	177.640479	water tap running 
+TUT-sound-events-2016-development/audio/home/b029.wav	home	108.735137	116.216382	people walking
+TUT-sound-events-2016-development/audio/home/b029.wav	home	116.505605	117.041204	drawer
+TUT-sound-events-2016-development/audio/home/b029.wav	home	117.542525	118.086693	(object) rustling
+TUT-sound-events-2016-development/audio/home/b029.wav	home	119.421405	120.565445	people walking
+TUT-sound-events-2016-development/audio/home/b029.wav	home	120.869665	121.465251	drawer
+TUT-sound-events-2016-development/audio/home/b029.wav	home	122.296500	125.561511	(object) rustling
+TUT-sound-events-2016-development/audio/home/b029.wav	home	125.947142	129.147881	(object) rustling
+TUT-sound-events-2016-development/audio/home/b029.wav	home	129.147881	129.910573	drawer
+TUT-sound-events-2016-development/audio/home/b029.wav	home	130.634703	137.117592	people walking
+TUT-sound-events-2016-development/audio/home/b029.wav	home	148.729375	149.067873	object impact
+TUT-sound-events-2016-development/audio/home/b044.wav	home	77.411472	77.643185	cupboard
+TUT-sound-events-2016-development/audio/home/b044.wav	home	143.971050	144.897902	object impact
+TUT-sound-events-2016-development/audio/home/b044.wav	home	146.365418	146.539203	cupboard
+TUT-sound-events-2016-development/audio/home/b044.wav	home	147.852244	148.038901	(object) snapping
+TUT-sound-events-2016-development/audio/home/b044.wav	home	150.642455	151.028643	cupboard
+TUT-sound-events-2016-development/audio/home/b044.wav	home	153.072224	153.181644	object impact
+TUT-sound-events-2016-development/audio/home/b044.wav	home	154.092405	154.259753	object impact
+TUT-sound-events-2016-development/audio/home/b044.wav	home	158.791031	158.966425	(object) snapping
+TUT-sound-events-2016-development/audio/home/b044.wav	home	160.577153	161.336656	cupboard
+TUT-acoustic-scenes-2016-development/audio/a122_0_30.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/a122_0_30.wav	office	1.947117	4.165288	(object) rustling
+TUT-acoustic-scenes-2016-development/audio/a122_0_30.wav	office	2.64216	2.858507	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_0_30.wav	office	4.181452	4.376661	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_0_30.wav	office	5.529265	5.717014	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_0_30.wav	office	7.366965	7.518656	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_0_30.wav	office	8.310683	8.535733	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_0_30.wav	office	12.380232	12.470997	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_0_30.wav	office	12.740809	12.948451	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_0_30.wav	office	18.869378	19.104375	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_0_30.wav	office	25.292625	25.508972	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_0_30.wav	office	27.417544	27.457332	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	0.212608	0.285896	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	4.169433	4.337052	(object) rustling
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	6.458050	6.645261	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	7.292517	7.413696	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	7.796825	8.000000	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	8.952744	9.171882	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	9.473016	9.661678	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	10.692063	10.884354	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	11.307392	11.450340	(object) rustling
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	11.801542	12.070748	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	12.425578	12.583764	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	13.704127	13.941406	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	15.375964	15.490612	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	16.995556	17.147937	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	17.261859	17.453424	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	18.399637	18.411247	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	19.446712	19.597642	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	20.921905	21.163537	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	25.221224	25.341678	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	25.745850	25.935964	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	26.196463	26.390930	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	26.541859	26.712381	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_120_150.wav	office	29.958095	30.000000	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	0.000000	0.145270	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	0.408784	0.586149	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	0.917230	1.058278	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	2.388515	2.643583	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	7.576864	7.717911	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	9.062507	9.307439	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	12.200178	12.494942	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	13.234807	13.500855	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	17.179912	17.281263	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	17.349675	17.446804	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	17.500013	17.670621	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	18.065892	18.145284	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	19.281265	19.551535	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	19.483967	19.584474	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	20.175691	20.412178	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	20.478056	20.771975	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	20.625860	21.404577	breathing
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	21.289712	21.510996	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	21.571807	22.300693	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	22.555760	22.880085	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	25.096303	25.717925	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	25.793938	25.926540	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	25.983972	26.068432	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	26.130087	26.426540	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	26.960324	27.235662	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_150_180.wav	office	27.271135	27.549852	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	0.097973	0.143581	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	0.240710	0.322635	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	1.652028	1.782096	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	1.977197	2.054900	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	2.972131	3.179056	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	3.377536	3.575172	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	3.777874	4.060814	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	4.150341	4.260138	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	4.336152	4.476355	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	5.130071	5.174835	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	6.144430	6.188349	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	6.774498	6.902877	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	9.999163	10.099670	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	13.001699	13.173152	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	14.747477	14.822646	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	15.460316	15.483120	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	15.587005	15.708627	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	16.314202	16.580249	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	18.048156	18.157108	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	18.547311	18.640217	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	21.530422	21.696807	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	22.449341	22.494105	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	25.874175	26.061675	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	26.256777	26.452723	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	28.861508	29.087860	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_180_210.wav	office	29.590394	29.796475	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	1.035474	1.256758	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	1.539697	1.6174	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	1.8674	1.954393	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	3.024496	3.189192	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	3.351354	3.50507	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	4.526186	4.777031	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	5.564193	5.587842	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	6.488181	6.731424	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	7.839533	8.020276	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	9.175683	9.418926	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	10.49663	10.5169	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	10.808285	10.991562	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	11.271123	11.397813	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	11.614874	11.634299	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	12.579401	12.714537	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	12.890212	13.032104	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	13.706936	13.789706	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	17.252547	17.503392	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	21.781266	22.050692	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	24.519444	24.673161	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	26.045628	26.28127	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_210_240.wav	office	29.239042	29.410495	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_240_270.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/a122_240_270.wav	office	8.774500	9.022811	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_240_270.wav	office	9.799838	9.820109	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_240_270.wav	office	12.140212	12.380077	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_240_270.wav	office	21.099678	21.313361	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_240_270.wav	office	22.310828	22.511841	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_240_270.wav	office	22.867416	22.938362	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_240_270.wav	office	27.383467	27.516068	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_240_270.wav	office	28.428231	28.602218	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_270_300.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/a122_270_300.wav	office	2.571792	2.703549	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_270_300.wav	office	3.923989	4.022807	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_270_300.wav	office	5.457774	5.682437	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_270_300.wav	office	6.061660	6.210309	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_270_300.wav	office	8.617405	8.776189	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_270_300.wav	office	9.447642	9.692575	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_270_300.wav	office	10.907103	11.165549	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_270_300.wav	office	12.406259	12.595449	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_270_300.wav	office	15.422309	15.544775	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_270_300.wav	office	15.736498	15.762681	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_270_300.wav	office	16.446803	16.750013	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/a122_270_300.wav	office	26.358128	26.612351	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_30_60.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/a122_30_60.wav	office	11.460313	11.569266	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_30_60.wav	office	12.600516	12.771969	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_30_60.wav	office	20.994104	21.102212	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_30_60.wav	office	25.345458	25.455256	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_30_60.wav	office	27.864886	28.143602	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_30_60.wav	office	28.599684	28.884312	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_30_60.wav	office	29.704414	29.835327	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	0.007601	0.114020	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	0.790541	0.901183	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	1.651184	1.909630	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	3.520273	3.668922	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	4.362334	4.500848	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	5.017740	5.142740	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	5.174835	5.303213	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	6.803215	7.062505	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	13.803220	13.841227	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	14.069267	14.152882	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	14.464538	14.582781	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	16.870790	17.013526	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	17.221297	17.362344	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	18.309135	18.327717	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	19.705251	19.817583	(object) impact
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	20.434982	20.538022	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	25.652046	25.782114	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	27.688366	27.829413	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	29.312522	29.450191	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/a122_60_90.wav	office	29.922320	30.000000	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	0	0.614865	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	0.633446	0.78294	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	1.094595	1.563346	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	2.1174	2.210306	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	2.746624	2.975509	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	3.572638	3.668077	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	3.702706	3.802368	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	3.836152	3.889361	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	4.146963	4.266895	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	4.266895	4.52703	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	4.714531	4.827706	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	5.520274	5.59291	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	5.7272	5.79139	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	5.887673	5.974667	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	6.51014	6.532944	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	6.761829	6.843755	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	7.033789	7.091222	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	7.221289	7.343756	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	7.52281	7.762675	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	8.724669	8.891054	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	9.407102	9.599669	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	9.705244	9.760143	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	9.866562	9.917237	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	10.451866	11.024502	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	11.071799	11.198488	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	11.309975	11.440887	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	11.593759	11.689198	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	12.273658	12.548996	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	12.774503	12.940888	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	13.091226	13.257611	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	13.614875	13.681598	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	13.930754	14.018592	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	14.374166	14.46116	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	14.526193	14.610653	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	15.401194	15.47214	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	15.52366	15.747478	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	15.779573	15.852208	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	16.392749	16.533796	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	16.584472	16.757614	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	16.81758	16.967074	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	18.051534	18.192581	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	18.475521	18.814203	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	19.180758	19.642751	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	19.935826	20.036333	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	20.175691	20.27113	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	20.424002	20.494948	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	20.921469	21.041401	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	21.369104	21.445118	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	21.631773	21.693429	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	22.135152	22.195963	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	22.475524	22.606436	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	22.710321	22.788869	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	22.852213	22.944274	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	23.274511	23.379241	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	23.750863	23.813363	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	24.270289	24.451877	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	24.981438	25.255087	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	25.442587	25.503398	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	26.177385	26.511844	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	26.565898	26.762689	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	26.842926	27.117419	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	27.12671	27.224683	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	27.253399	27.388534	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	27.415561	27.835325	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	28.192589	28.415562	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	29.10813	29.330259	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_0_30.wav	office	29.767759	29.949347	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	2.095441	2.279563	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	2.539698	2.718752	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	2.833617	3.000002	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	3.127536	3.299834	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	3.587841	3.85051	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	4.073483	4.265206	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	4.739868	4.840375	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	6.007606	6.17568	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	7.185816	7.368249	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	7.642742	7.725513	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	7.771965	7.869094	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	8.656257	8.723824	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	11.458624	11.555752	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	11.936664	12.267746	breathing
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	13.346294	13.501699	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	14.237342	14.318423	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	14.489031	14.643592	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	14.906261	14.964538	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	16.939202	16.988189	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	19.608123	19.684981	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	20.198495	20.284644	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	20.782955	20.83532	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	21.880084	21.959476	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	21.99326	22.172314	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	22.891909	22.987348	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	23.817586	23.887687	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	23.973836	24.072653	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	24.391066	24.500863	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	24.857282	24.940053	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	25.565898	25.661337	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	25.820121	25.947655	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	26.05154	26.261	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	27.049852	27.161338	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	27.38769	27.744109	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	28.618265	28.683299	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	28.720461	28.797319	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_120_150.wav	office	29.201036	29.315901	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	0.33446	0.390203	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	0.788007	0.809967	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	1.037163	1.175677	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	1.555744	1.752535	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	1.842907	1.891893	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	2.232265	2.297299	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	2.440036	2.519428	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	2.570948	2.630914	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	2.686657	3.051523	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	3.13007	3.191725	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	3.334462	3.59882	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	4.099665	4.173145	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	4.331929	4.404564	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	4.443416	4.712841	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	4.766051	4.875004	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	4.982267	5.086997	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	5.333619	5.612335	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	5.793079	5.845444	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	6.276187	6.469599	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	7.347979	7.372472	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	8.184128	8.281256	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	8.373317	8.590378	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	9.353892	9.519433	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	9.657946	9.771122	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	10.022812	10.114873	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	10.674839	10.84038	breathing
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	11.032948	11.115718	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	11.755921	11.940887	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	11.953556	12.361496	(object) rustling
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	12.201867	12.322644	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	12.464536	12.589537	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	13.265213	13.413017	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	13.844605	13.891902	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	14.219605	14.329403	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	14.743254	14.83616	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	14.884302	15.030417	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	15.125011	15.327714	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	15.63937	15.673998	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	16.077715	16.159641	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	16.409641	16.454404	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	17.321804	17.477209	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	17.916399	17.989034	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	18.207784	18.393595	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	19.01015	19.096298	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	19.364035	19.469609	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	19.537177	19.718765	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	20.049846	20.165556	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	20.407955	20.614036	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	20.694272	20.85559	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	20.903732	21.010151	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	21.081097	21.173158	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	21.390219	21.495793	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	21.722989	21.816739	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	22.321807	22.507618	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	22.993261	23.244105	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	23.446808	23.497484	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	23.550693	23.629241	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	23.671471	23.831944	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	23.831944	23.928228	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	24.175694	24.339545	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	24.373329	24.616573	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	24.630931	24.786336	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	25.066742	25.136843	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	25.340391	25.385999	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	25.452722	25.545627	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	25.6436	25.742418	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	26.07181	26.155425	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	26.195121	26.265223	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	26.445121	26.533804	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	26.580257	26.761	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	26.874176	26.958635	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	27.456946	27.585325	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	27.614041	27.693433	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	28.583636	28.695123	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_150_180.wav	office	28.76438	28.952725	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	0.000000	0.669025	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	0.101351	0.152027	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	0.236487	0.309122	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	1.633447	1.715373	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	1.999157	2.237333	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	2.352198	2.385982	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	2.906252	2.967063	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	3.014360	3.134293	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	3.195104	3.411320	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	3.702706	3.757604	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	7.033789	7.224668	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	8.260141	8.334466	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	8.757608	8.782946	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	10.747474	10.831934	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	10.951866	11.021968	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	11.148657	11.386833	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	11.786326	11.867408	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	12.321088	12.749206	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	12.364874	12.444266	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	12.475516	12.722983	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	12.759365	13.231020	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	12.766902	13.151192	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	13.246632	13.435821	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	13.257143	14.008889	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	13.482274	13.567578	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	13.669774	13.788017	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	14.020281	14.486497	(object) squeaking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	14.020281	14.079403	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	15.067579	15.111498	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	15.303221	15.332782	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	16.138526	16.350519	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	16.402884	16.483965	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	16.554911	16.644438	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	16.724675	16.923999	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	17.038864	17.548155	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	17.591230	17.644439	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	17.969608	18.027885	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	18.342919	18.403730	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	19.715387	19.777887	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	20.872482	20.955252	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	20.981435	21.065050	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	21.080816	21.738231	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	21.688361	21.755929	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	21.825185	22.455253	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	22.477213	22.567585	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	22.645287	22.712010	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	23.078565	23.161335	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	23.401200	23.459477	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	23.481179	25.092063	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	23.938363	23.995795	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	24.088701	24.222147	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	24.264376	24.314208	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	24.383464	24.431606	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	24.732282	24.807451	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	25.404580	25.446810	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	25.530340	26.260317	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	25.712472	25.959909	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	26.007621	26.071810	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	26.276202	26.445121	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	26.586848	27.586757	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	27.163872	27.326879	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	27.651203	28.474921	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	27.651203	27.735663	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	28.508467	28.667251	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	28.695123	28.772826	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_180_210.wav	office	29.436372	30.000000	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	0.515193	1.270567	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	1.786485	2.6761	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	2.193414	2.415542	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	2.705239	2.879225	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	3.136827	3.272807	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	5.399497	5.716221	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	5.748315	5.848822	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	6.173991	6.369093	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	6.786323	6.872471	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	7.401188	7.518587	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	7.755465	8.286621	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	7.833621	7.918925	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	9.045615	9.126696	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	9.69173	9.766055	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	9.795616	9.89021	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	10.276281	10.94966	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	11.062508	11.136833	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	11.403725	11.478049	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	12.934131	12.986496	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	13.168084	13.539706	(object) rustling
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	13.937511	14.09545	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	14.244943	14.320112	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	14.375855	14.460315	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	16.022816	16.179911	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	16.171247	17.188571	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	16.478053	16.674844	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	17.260148	17.471297	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	17.579405	17.630081	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	17.667243	17.701027	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	18.201872	18.429068	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	18.46623	18.532109	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	19.092075	19.256771	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	19.750015	19.950184	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	19.896974	19.95863	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	20.014373	20.104745	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	20.541401	20.863191	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	21.005083	21.058293	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	21.138866	21.896417	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	21.2838	21.543091	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	22.050692	22.217922	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	22.250017	22.326875	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	22.603058	22.792247	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	23.008463	23.166403	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	23.182948	23.894059	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	23.518599	23.635998	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	23.799849	23.872484	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	23.907957	23.977214	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	24.299849	24.786336	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	24.916404	24.995796	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	25.095458	25.169783	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	25.385154	25.437519	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	25.927384	26.036337	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	26.11404	26.215391	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	26.700045	27.435828	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	28.946576	30.000000	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	29.079414	29.210326	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_210_240.wav	office	29.2534	29.325191	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	0.362086	1.051429	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	0.823480	0.853886	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	0.893582	0.925676	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	1.013514	1.043075	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	1.410474	1.452704	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	1.558639	1.821315	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	1.576015	1.702704	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	1.879365	2.565805	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	2.423144	2.500846	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	2.526184	2.595441	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	2.891894	3.001691	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	2.944580	3.919819	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	3.790543	3.942571	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	4.266895	4.339530	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	4.335601	5.432018	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	4.403720	4.472976	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	5.453551	5.484801	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	5.562630	6.254875	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	6.485624	7.008073	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	6.717910	6.822640	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	7.023654	7.080242	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	7.754229	7.794769	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	7.909297	9.912018	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	8.358959	8.455243	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	9.619940	9.923994	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	9.948487	10.115717	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	10.237098	11.594014	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	10.314197	10.375852	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	10.478048	10.606427	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	11.056596	11.217914	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	11.630076	11.688353	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	11.798639	13.064127	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	11.842914	11.904570	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	11.957779	12.092915	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	12.653726	12.773658	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	12.948490	13.029571	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	13.079402	13.140213	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	13.220862	14.326712	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	13.470449	13.565044	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	13.801531	13.932443	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	14.140213	14.184132	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	14.388524	14.455247	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	15.120544	16.343946	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	17.071803	17.108121	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	17.141905	17.271128	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	17.333696	17.809705	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	17.879365	18.250884	(object) squeaking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	18.575964	23.318639	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	19.029575	19.193427	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	20.556603	20.771975	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	21.041401	21.085320	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	22.801538	23.283801	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	23.335322	23.539714	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	23.619106	23.723835	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	23.738194	23.856437	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	24.133464	24.322654	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	24.527890	24.710323	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	24.864884	25.108972	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	25.678229	25.832790	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	25.736417	30.000000	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	25.877553	26.587858	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	26.689209	27.172318	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	28.408805	28.490731	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	28.546474	28.610664	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	29.070968	29.228063	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_240_270.wav	office	29.499178	29.567590	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	0	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	0.156735	1.506395	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	0.29223	0.366554	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	0.416385	0.497467	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	0.833615	0.914697	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	0.977197	1.078548	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	1.527873	1.609799	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	1.834376	2.853152	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	2.119934	2.214529	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	2.277029	2.355576	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	2.579394	2.69088	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	3.440036	3.638516	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	3.594739	4.578685	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	3.884293	3.930746	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	4.5961	5.313016	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	4.610645	4.7897	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	4.91301	5.108957	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	5.342041	5.948662	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	5.65541	5.756761	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	5.815038	6.038011	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	6.404566	6.617404	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	6.476916	7.058866	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	6.796458	6.842911	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	7.166391	7.331931	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	7.39612	7.530411	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	7.624853	8.611701	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	8.149499	8.369094	(object) rustling
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	8.644432	8.745784	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	8.758277	9.311202	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	8.959466	9.087845	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	9.184129	9.295615	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	9.311202	10.167438	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	9.32771	9.415548	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	9.475514	9.779568	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	9.870784	9.913014	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	10.428217	10.468758	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	10.428217	10.730582	(object) rustling
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	10.698594	11.261678	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	11.141056	11.239029	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	11.273288	11.949569	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	11.284637	11.387678	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	11.517745	11.668083	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	12.027881	12.157104	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	12.173151	12.27957	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	12.215147	13.215057	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	12.330246	12.454401	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	12.721293	13.237341	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	13.608118	13.811666	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	13.627937	14.23746	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	14.275349	14.685822	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	14.419592	17.525261	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	14.797308	14.830248	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	16.235654	16.302377	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	16.365722	16.445958	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	16.476364	16.634303	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	16.673154	16.842918	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	17.128391	17.331094	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	17.573493	17.632615	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	17.71102	19.075193	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	17.834473	18.046466	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	18.125858	18.429913	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	18.512683	18.796467	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	18.871636	19.060825	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	19.108123	19.256771	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	19.298685	28.995918	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	19.554913	19.674001	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	19.725522	19.869947	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	20.924847	21.005928	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	21.026198	21.163867	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	25.023668	25.265222	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	25.881776	26.285493	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	26.304919	26.556608	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	27.108129	27.279581	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	28.433299	28.564211	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	28.966238	29.15036	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	29.269448	29.357286	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_270_300.wav	office	29.375867	29.519448	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	0.609798	0.744933	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	0.918920	1.132602	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	2.472130	3.036320	breathing
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	3.179056	3.250002	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	3.733111	3.901185	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	4.029564	4.184969	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	8.521966	8.695953	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	9.349669	9.469602	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	9.903724	9.988183	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	10.137677	10.236494	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	10.256765	10.381765	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	10.405413	10.488184	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	10.754231	10.831934	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	11.206090	11.314198	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	11.385144	11.474671	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	13.168929	13.253388	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	13.445956	13.548997	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	14.012680	14.108963	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	14.309977	14.391903	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	15.169775	15.469606	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	15.655417	15.722140	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	16.546465	16.625857	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	16.650350	16.733965	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	16.771972	16.962851	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	17.059979	17.145283	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	17.240722	17.457783	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	17.457783	17.525351	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	20.565049	20.725522	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	21.413868	21.471300	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	21.663023	21.858125	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	22.319274	22.412179	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	22.456943	22.554071	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	22.909646	22.983125	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	23.224680	23.395288	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	23.955255	24.183295	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	24.477214	24.671471	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	25.074343	25.322654	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	26.101371	26.250020	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	26.569277	26.653736	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	26.778736	26.846304	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	26.902047	26.989885	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	27.119953	27.371642	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	27.454413	27.632622	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	28.067589	28.105596	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	28.167251	28.352217	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	29.228063	29.893604	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_30_60.wav	office	29.449347	29.662185	(object) rustling
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	0.096284	0.202703	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	0.602196	0.790541	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	0.796453	0.894426	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	1.809968	1.889360	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	2.036319	2.330238	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	2.580238	2.700171	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	2.929056	3.048989	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	3.367401	3.478888	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	3.548989	3.771962	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	4.052368	4.375003	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	4.460307	4.637672	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	4.701862	4.923990	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	5.171457	5.608957	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	5.744092	5.809971	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	5.963687	6.039701	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	7.431593	7.660479	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	8.019432	8.176526	breathing
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	8.525344	8.575175	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	8.951020	9.113183	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	9.280412	9.412169	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	9.804906	9.929062	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	13.328557	13.534639	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	14.268592	14.343761	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	14.708626	14.755079	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	15.457782	15.521971	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	15.866566	15.899505	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	16.318424	16.392749	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	18.581095	18.763528	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	19.530420	19.713697	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	20.366569	20.542245	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	21.888530	22.073496	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	22.246638	22.402044	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	22.714544	22.858125	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	22.916402	23.009308	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	23.577721	23.697653	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	23.907957	24.043937	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	24.791404	25.021978	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	25.732283	26.069276	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	26.429919	26.565054	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	26.630088	26.691743	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	27.400359	27.551541	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	27.609818	27.733974	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	27.846305	28.021981	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	28.163873	28.299008	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	28.391069	28.658805	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_60_90.wav	office	29.652894	29.782117	keyboard typing
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	0.000000	0.176520	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	0.000000	30.000000	fan
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	0.707771	0.835305	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	3.680746	3.775341	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	5.555374	5.969705	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	5.660477	5.744937	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	5.905410	6.018586	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	6.063349	6.175680	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	6.206086	6.449329	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	6.666390	6.874161	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	7.282100	7.353046	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	7.643587	7.763519	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	7.961999	8.172303	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	8.652336	9.065215	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	8.831088	8.935818	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	9.116561	9.375007	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	9.546460	9.668926	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	9.880075	10.010143	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	10.052372	10.207778	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	10.788860	10.895279	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	11.292238	11.642745	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	11.879232	11.982273	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	12.276825	12.859501	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	12.308286	12.434131	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	12.493253	12.702712	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	13.017746	13.125010	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	13.815147	14.324535	people talking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	14.209470	14.553220	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	14.605585	14.722140	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	15.401194	15.539708	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	16.526195	16.636837	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	16.669776	16.800688	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	17.039709	17.328560	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	17.531263	17.689203	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	18.290554	18.418933	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	18.567582	18.758460	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	19.180758	19.387684	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	19.525353	19.698495	mouse clicking
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	20.228056	20.303225	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	21.225523	21.374172	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	23.358970	23.478903	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	23.503396	23.561673	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	24.216235	24.402045	breathing
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	24.504241	24.626708	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	25.558296	25.744952	(object) impact
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	26.611507	26.777892	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	28.693434	28.914718	mouse wheeling
+TUT-acoustic-scenes-2016-development/audio/b113_90_120.wav	office	29.896982	29.954415	(object) impact
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	2.816400	8.554627	wind blowing
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	4.729142	15.573036	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	16.687547	23.193883	wind blowing
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	25.724125	27.742294	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	33.646192	34.971557	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	41.869478	43.255087	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	51.237397	61.004432	wind blowing
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	56.117149	57.291904	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	66.479092	67.774335	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	67.081531	72.744453	people walking
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	74.190305	74.913231	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	77.082010	78.798960	people walking
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	88.407855	89.642854	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	108.740155	110.005276	wind blowing
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	121.060023	121.722705	wind blowing
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	123.289046	126.391604	wind blowing
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	127.475993	134.554646	wind blowing
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	138.771716	142.386347	people walking
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	147.898660	152.868778	wind blowing
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	148.290245	151.904876	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	154.886947	157.085847	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	0.746354	4.273768	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	4.096064	5.100089	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	6.859353	7.525741	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	9.906967	13.674280	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	21.884179	22.990383	people speaking
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	23.097005	27.130873	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	26.579992	31.604557	people speaking
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	26.619975	28.059373	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	28.028275	29.769769	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	31.862227	34.727695	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	35.656195	40.609679	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	39.139183	57.527046	people speaking
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	41.156117	43.537343	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	44.199288	45.780849	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	48.348664	56.029895	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	48.721841	50.378926	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	52.924527	55.443474	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	57.527046	195.202787	people speaking
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	62.747085	65.474833	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	63.937698	65.332670	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	66.247843	68.304760	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	71.028065	76.021532	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	80.259759	85.111063	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	88.025399	88.949457	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	89.473683	91.170750	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	92.210315	93.152144	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	93.472010	100.286937	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	120.660636	121.638005	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	134.166098	134.699208	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	137.533578	147.182875	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	147.369464	152.078605	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	164.580042	166.499239	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	191.537654	192.186271	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	194.638579	196.540006	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	206.518054	212.888722	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	210.791822	211.413784	(object) banging
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	211.769191	215.092245	bird singing
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	212.408923	213.732814	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	10.406380	14.872192	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	38.159323	38.343667	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	39.897614	40.616818	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	41.563206	42.046137	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	51.182823	57.165323	people walking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	59.882048	67.903876	people walking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	76.732373	76.872638	bird singing
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	78.490764	79.453940	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	88.222828	95.409038	bird singing
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	89.402829	90.110830	bird singing
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	90.825686	95.706950	bird singing
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	96.553079	97.939145	bird singing
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	97.599015	98.676441	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	99.527033	105.343631	bird singing
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	103.781150	110.247559	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	109.559168	113.643308	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	112.434600	127.794915	bird singing
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	123.900688	125.684354	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	126.301903	128.459594	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	130.312686	131.268573	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	132.513526	133.469413	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	137.111404	142.994801	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	142.758926	143.143251	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	143.796934	144.499888	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	145.817107	148.254454	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	149.106184	150.622483	children shouting
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	149.108512	150.100532	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	151.493302	152.406486	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	152.512664	154.465158	children shouting
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	154.544913	156.052655	people speaking
