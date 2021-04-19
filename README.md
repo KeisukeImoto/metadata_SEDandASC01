@@ -6,12 +6,13 @@ Sound event detection (SED) and acoustic scene classification (ASC) are major re
 
 TUT Sound Events 2016/2017 & Acoustic Scenes 2016/2017 are environmental sound datasets for SED and ASC, which were originally recorded by Tampere University, Audio Research Group. Parts of sound clips in this dataset have strong event labels (e.g. TUT Sound Events 2016, TUT Sound Events 2017); however, many of sound clips have no strong labels. We have annotated some of these sound clips using the same protocol as in [1] and [2]. 
 
+## Dataset discription
 
+This dataset contains 266 min. of sounds (192 min. for training, 74 min. for evaluation) including 4 acoustic scenes (City center, Home, Office, Residential area) and 25 sound events. This dataset is used in [3][4][5]. 
 
+Note that sound files of the TUT Sound Events 2016/2017 and TUT Acoustic Scenes 2016/2017 are not included in this metadata. Please download them from the DCASE Challenge Web page (or directly Zenodo).
 
-
-
-
+##
 
 [1]  A. Mesaros, T. Heittola, and T. Virtanen, “TUT Database for Acoustic Scene Classification and Sound Event Detection," Proc. European Signal Processing Conference (EUSIPCO), pp. 1128-1132.
 [2]  A. Mesaros, T. Heittola, A. Diment, B. Elizalde, A. Shah, B. Raj, and T. Virtanen, “DCASE 2017 challenge setup: Tasks, datasets and baseline system,” Proc. Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE) Workshop, pp. 85-92, 2017. 
