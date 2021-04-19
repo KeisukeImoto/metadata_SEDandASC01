@@ -10,16 +10,16 @@ TUT Sound Events 2016/2017 & Acoustic Scenes 2016/2017 are environmental sound d
 
 This dataset contains 266 min. of sounds (192 min. for training, 74 min. for evaluation) including 4 acoustic scenes (City center, Home, Office, Residential area) and 25 sound events. Evaluation experiments using this dataset is found in [3][4][5]. 
 
-Note that sound files of the TUT Sound Events 2016/2017 and TUT Acoustic Scenes 2016/2017 are not included in this metadata. Please download them from the DCASE Challenge Web page (or directly Zenodo).
 
-
-
+The meta data has almost same structure with that of TUT Sound Events/Acoustic Scenes as follows.
 ```
 path	scene_label	event_start_time	event_end_time	event_label
 TUT-sound-events-2017-development/audio/street/a124.wav	city_center	0.0	4.037666	people speaking
 TUT-sound-events-2017-development/audio/street/a124.wav	city_center	0.0	21.850174	large vehicle
 TUT-sound-events-2017-development/audio/street/a124.wav	city_center	1.772634	4.222315	people walking
 ```
+
+Note that sound files of the TUT Sound Events 2016/2017 and TUT Acoustic Scenes 2016/2017 are not included in this metadata. Please download them from the DCASE Challenge Web page (or directly Zenodo).
 
 ##
 
