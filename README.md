@@ -1,1 +1,1 @@
-# metadata_SEDandASC01
+# Joint Analysis of Sound Events and Acoustic Scenes
