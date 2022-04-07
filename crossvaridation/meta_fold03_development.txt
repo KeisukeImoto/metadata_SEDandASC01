@@ -1,5 +1,5 @@
 path	scene_label	event_start_time	event_end_time	event_label
-TUT-sound-events-2017-development/audio/street/a124.wav	city_center	0.0	4.037666	people speaking
+TUT-sound-events-2017-development/audio/street/a124.wav	city_center	0.0	4.037666	people talking
 TUT-sound-events-2017-development/audio/street/a124.wav	city_center	0.0	21.850174	large vehicle
 TUT-sound-events-2017-development/audio/street/a124.wav	city_center	1.772634	4.222315	people walking
 TUT-sound-events-2017-development/audio/street/a124.wav	city_center	6.684307	15.732125	car
@@ -28,9 +28,9 @@ TUT-sound-events-2017-development/audio/street/a124.wav	city_center	255.197722	2
 TUT-sound-events-2017-development/audio/street/a124.wav	city_center	269.612681	276.900176	large vehicle
 TUT-sound-events-2017-development/audio/street/a124.wav	city_center	276.247748	289.936421	large vehicle
 TUT-sound-events-2017-development/audio/street/a124.wav	city_center	285.184777	298.417981	car
-TUT-sound-events-2017-development/audio/street/a124.wav	city_center	299.882866	300.953832	people speaking
+TUT-sound-events-2017-development/audio/street/a124.wav	city_center	299.882866	300.953832	people talking
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	0.0	65.024478	people walking
-TUT-sound-events-2017-development/audio/street/a127.wav	city_center	0.295063	51.291761	people speaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	0.295063	51.291761	people talking
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	7.364277	20.150335	car
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	59.23387	68.688176	large vehicle
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	78.830962	90.363002	people walking
@@ -39,10 +39,10 @@ TUT-sound-events-2017-development/audio/street/a127.wav	city_center	91.358839	11
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	92.502207	100.038605	large vehicle
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	98.73541	100.960676	brakes squeaking
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	99.891073	185.434715	large vehicle
-TUT-sound-events-2017-development/audio/street/a127.wav	city_center	99.891073	103.554771	people speaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	99.891073	103.554771	people talking
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	108.460191	121.541311	large vehicle
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	115.553994	137.31488	people walking
-TUT-sound-events-2017-development/audio/street/a127.wav	city_center	118.627565	121.369191	people speaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	118.627565	121.369191	people talking
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	121.897845	126.250022	large vehicle
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	125.635308	130.77432	brakes squeaking
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	131.450505	133.208588	brakes squeaking
@@ -51,16 +51,16 @@ TUT-sound-events-2017-development/audio/street/a127.wav	city_center	136.675577	1
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	143.400551	166.821166	people walking
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	152.80568	163.292706	car
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	166.907226	175.722229	people walking
-TUT-sound-events-2017-development/audio/street/a127.wav	city_center	173.792026	174.578861	people speaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	173.792026	174.578861	people talking
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	178.513032	180.590766	people walking
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	179.545752	183.049624	children
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	182.779149	192.454752	large vehicle
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	191.803155	207.109541	people walking
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	200.126387	213.883693	large vehicle
-TUT-sound-events-2017-development/audio/street/a127.wav	city_center	200.446038	201.773821	people speaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	200.446038	201.773821	people talking
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	213.883693	248.393753	large vehicle
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	215.678658	300.570703	people walking
-TUT-sound-events-2017-development/audio/street/a127.wav	city_center	222.956876	227.35823	people speaking
+TUT-sound-events-2017-development/audio/street/a127.wav	city_center	222.956876	227.35823	people talking
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	224.997727	240.156582	large vehicle
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	227.653293	227.997533	brakes squeaking
 TUT-sound-events-2017-development/audio/street/a127.wav	city_center	248.393753	265.691814	large vehicle
@@ -78,15 +78,15 @@ TUT-sound-events-2017-development/audio/street/a129.wav	city_center	21.067617	24
 TUT-sound-events-2017-development/audio/street/a129.wav	city_center	24.491966	27.266869	car
 TUT-sound-events-2017-development/audio/street/a129.wav	city_center	28.447679	32.14755	people walking
 TUT-sound-events-2017-development/audio/street/a129.wav	city_center	28.59528	31.084821	car
-TUT-sound-events-2017-development/audio/street/a129.wav	city_center	35.512858	41.564509	people speaking
+TUT-sound-events-2017-development/audio/street/a129.wav	city_center	35.512858	41.564509	people talking
 TUT-sound-events-2017-development/audio/street/a129.wav	city_center	35.562059	52.063877	people walking
-TUT-sound-events-2017-development/audio/street/a129.wav	city_center	44.11309	47.330797	people speaking
+TUT-sound-events-2017-development/audio/street/a129.wav	city_center	44.11309	47.330797	people talking
 TUT-sound-events-2017-development/audio/street/a129.wav	city_center	44.437813	55.084783	large vehicle
 TUT-sound-events-2017-development/audio/street/a129.wav	city_center	55.694868	62.828928	car
 TUT-sound-events-2017-development/audio/street/a129.wav	city_center	61.431636	62.051561	car
 TUT-sound-events-2017-development/audio/street/a129.wav	city_center	62.710847	68.693617	car
 TUT-sound-events-2017-development/audio/street/a129.wav	city_center	63.635814	64.609983	people walking
-TUT-sound-events-2017-development/audio/street/a129.wav	city_center	63.862136	70.435311	people speaking
+TUT-sound-events-2017-development/audio/street/a129.wav	city_center	63.862136	70.435311	people talking
 TUT-sound-events-2017-development/audio/street/a129.wav	city_center	68.693617	73.357816	car
 TUT-sound-events-2017-development/audio/street/a129.wav	city_center	73.357816	74.558306	car
 TUT-sound-events-2017-development/audio/street/a129.wav	city_center	76.290161	77.913774	car
@@ -113,48 +113,48 @@ TUT-sound-events-2017-development/audio/street/a129.wav	city_center	205.913569	2
 TUT-sound-events-2017-development/audio/street/a129.wav	city_center	210.80409	228.555599	large vehicle
 TUT-sound-events-2017-development/audio/street/a129.wav	city_center	226.813905	231.379703	people walking
 TUT-sound-events-2017-development/audio/street/a129.wav	city_center	229.549448	231.094341	children
-TUT-sound-events-2017-development/audio/street/a129.wav	city_center	231.852027	233.583881	people speaking
+TUT-sound-events-2017-development/audio/street/a129.wav	city_center	231.852027	233.583881	people talking
 TUT-sound-events-2017-development/audio/street/a129.wav	city_center	236.043902	240.57034	people walking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	0.0	25.786823	people walking
-TUT-sound-events-2017-development/audio/street/a131.wav	city_center	9.997565	16.498445	people speaking
+TUT-sound-events-2017-development/audio/street/a131.wav	city_center	9.997565	16.498445	people talking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	15.966555	17.562225	children
-TUT-sound-events-2017-development/audio/street/a131.wav	city_center	17.906969	21.915845	people speaking
+TUT-sound-events-2017-development/audio/street/a131.wav	city_center	17.906969	21.915845	people talking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	26.308863	29.7169	people walking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	30.662483	34.297065	children
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	31.489867	40.571399	people walking
-TUT-sound-events-2017-development/audio/street/a131.wav	city_center	38.236993	44.32418	people speaking
+TUT-sound-events-2017-development/audio/street/a131.wav	city_center	38.236993	44.32418	people talking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	44.205982	51.780492	large vehicle
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	62.339497	66.663567	car
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	79.281183	81.349645	people walking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	84.038645	94.361254	people walking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	87.387583	92.499639	car
-TUT-sound-events-2017-development/audio/street/a131.wav	city_center	91.780602	94.361254	people speaking
-TUT-sound-events-2017-development/audio/street/a131.wav	city_center	98.626225	102.388856	people speaking
+TUT-sound-events-2017-development/audio/street/a131.wav	city_center	91.780602	94.361254	people talking
+TUT-sound-events-2017-development/audio/street/a131.wav	city_center	98.626225	102.388856	people talking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	98.980819	99.680156	brakes squeaking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	101.699368	107.983552	people walking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	108.269197	128.008232	car
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	124.245601	125.811722	brakes squeaking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	126.057968	127.880184	brakes squeaking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	129.259159	130.569184	brakes squeaking
-TUT-sound-events-2017-development/audio/street/a131.wav	city_center	130.293389	131.761012	people speaking
+TUT-sound-events-2017-development/audio/street/a131.wav	city_center	130.293389	131.761012	people talking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	131.534466	135.1001	people walking
-TUT-sound-events-2017-development/audio/street/a131.wav	city_center	134.331815	139.030178	people speaking
+TUT-sound-events-2017-development/audio/street/a131.wav	city_center	134.331815	139.030178	people talking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	136.76472	140.320504	people walking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	138.724833	143.2262	people walking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	140.468251	145.511358	car
-TUT-sound-events-2017-development/audio/street/a131.wav	city_center	146.348592	147.698017	people speaking
+TUT-sound-events-2017-development/audio/street/a131.wav	city_center	146.348592	147.698017	people talking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	148.269307	172.42106	people walking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	161.931004	163.21148	children
-TUT-sound-events-2017-development/audio/street/a131.wav	city_center	170.076803	188.249717	people speaking
+TUT-sound-events-2017-development/audio/street/a131.wav	city_center	170.076803	188.249717	people talking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	172.42106	174.312225	children
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	179.847823	204.038975	people walking
-TUT-sound-events-2017-development/audio/street/a131.wav	city_center	193.637567	197.547945	people speaking
+TUT-sound-events-2017-development/audio/street/a131.wav	city_center	193.637567	197.547945	people talking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	204.393568	209.022983	people walking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	213.4751	215.68146	children
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	216.341397	226.289713	children
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	219.897182	231.490417	people walking
 TUT-sound-events-2017-development/audio/street/a131.wav	city_center	231.057025	231.569216	brakes squeaking
-TUT-sound-events-2017-development/audio/street/a131.wav	city_center	240.187806	240.808345	people speaking
+TUT-sound-events-2017-development/audio/street/a131.wav	city_center	240.187806	240.808345	people talking
 TUT-sound-events-2017-development/audio/street/b091.wav	city_center	0.0	5.532196	car
 TUT-sound-events-2017-development/audio/street/b091.wav	city_center	17.477385	27.472945	car
 TUT-sound-events-2017-development/audio/street/b091.wav	city_center	27.472945	30.808097	car
@@ -189,14 +189,14 @@ TUT-sound-events-2017-development/audio/street/b091.wav	city_center	238.092256	2
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	1.505533	3.493229	car
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	7.350542	8.816714	car
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	10.174645	10.784731	children
-TUT-sound-events-2017-development/audio/street/b094.wav	city_center	12.152502	13.195551	people speaking
+TUT-sound-events-2017-development/audio/street/b094.wav	city_center	12.152502	13.195551	people talking
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	12.555945	16.580539	car
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	15.232448	20.004888	people walking
-TUT-sound-events-2017-development/audio/street/b094.wav	city_center	16.816701	17.702309	people speaking
+TUT-sound-events-2017-development/audio/street/b094.wav	city_center	16.816701	17.702309	people talking
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	18.322234	19.306242	children
-TUT-sound-events-2017-development/audio/street/b094.wav	city_center	21.42186	22.691231	people speaking
+TUT-sound-events-2017-development/audio/street/b094.wav	city_center	21.42186	22.691231	people talking
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	22.150026	29.520248	people walking
-TUT-sound-events-2017-development/audio/street/b094.wav	city_center	25.426774	29.520248	people speaking
+TUT-sound-events-2017-development/audio/street/b094.wav	city_center	25.426774	29.520248	people talking
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	32.501793	40.560821	car
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	40.255778	42.509157	car
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	42.322195	44.546054	car
@@ -204,7 +204,7 @@ TUT-sound-events-2017-development/audio/street/b094.wav	city_center	44.181971	46
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	47.63584	52.546041	people walking
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	48.600168	54.317256	large vehicle
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	53.047885	57.534963	people walking
-TUT-sound-events-2017-development/audio/street/b094.wav	city_center	53.756371	58.145048	people speaking
+TUT-sound-events-2017-development/audio/street/b094.wav	city_center	53.756371	58.145048	people talking
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	57.702245	60.585389	car
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	62.848608	72.541089	car
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	76.732964	87.084731	people walking
@@ -213,7 +213,7 @@ TUT-sound-events-2017-development/audio/street/b094.wav	city_center	87.084731	10
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	108.644352	122.499189	large vehicle
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	116.782101	120.541012	brakes squeaking
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	120.698454	128.009635	car
-TUT-sound-events-2017-development/audio/street/b094.wav	city_center	127.537311	128.885402	people speaking
+TUT-sound-events-2017-development/audio/street/b094.wav	city_center	127.537311	128.885402	people talking
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	129.997332	136.019462	people walking
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	136.019462	141.008384	car
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	140.703342	144.540974	car
@@ -223,16 +223,16 @@ TUT-sound-events-2017-development/audio/street/b094.wav	city_center	164.132578	1
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	164.545862	171.069837	car
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	173.047693	177.013246	car
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	181.697126	187.286293	car
-TUT-sound-events-2017-development/audio/street/b094.wav	city_center	183.330579	184.57043	people speaking
+TUT-sound-events-2017-development/audio/street/b094.wav	city_center	183.330579	184.57043	people talking
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	187.591335	192.531057	car
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	194.184191	200.540884	car
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	200.649125	206.02181	car
-TUT-sound-events-2017-development/audio/street/b094.wav	city_center	206.02181	209.249357	people speaking
+TUT-sound-events-2017-development/audio/street/b094.wav	city_center	206.02181	209.249357	people talking
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	206.503974	207.537183	children
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	206.592535	210.036564	people walking
-TUT-sound-events-2017-development/audio/street/b094.wav	city_center	209.859442	219.050079	people speaking
+TUT-sound-events-2017-development/audio/street/b094.wav	city_center	209.859442	219.050079	people talking
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	212.781947	224.550686	people walking
-TUT-sound-events-2017-development/audio/street/b094.wav	city_center	222.435068	223.546997	people speaking
+TUT-sound-events-2017-development/audio/street/b094.wav	city_center	222.435068	223.546997	people talking
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	224.944289	232.019308	car
 TUT-sound-events-2017-development/audio/street/b094.wav	city_center	232.471952	240.57034	car
 TUT-sound-events-2017-development/audio/street/b095.wav	city_center	0.0	2.462242	car
@@ -255,7 +255,7 @@ TUT-sound-events-2017-development/audio/street/b095.wav	city_center	82.104389	96
 TUT-sound-events-2017-development/audio/street/b095.wav	city_center	98.835766	102.979056	car
 TUT-sound-events-2017-development/audio/street/b095.wav	city_center	101.584775	112.472036	car
 TUT-sound-events-2017-development/audio/street/b095.wav	city_center	113.154344	120.560846	car
-TUT-sound-events-2017-development/audio/street/b095.wav	city_center	123.537291	132.021642	people speaking
+TUT-sound-events-2017-development/audio/street/b095.wav	city_center	123.537291	132.021642	people talking
 TUT-sound-events-2017-development/audio/street/b095.wav	city_center	126.246746	130.676803	car
 TUT-sound-events-2017-development/audio/street/b095.wav	city_center	127.116936	135.37385	people walking
 TUT-sound-events-2017-development/audio/street/b095.wav	city_center	132.990717	140.070898	car
@@ -323,80 +323,80 @@ TUT-sound-events-2017-development/audio/street/b098.wav	city_center	215.347216	2
 TUT-sound-events-2017-development/audio/street/b098.wav	city_center	218.860719	224.470514	car
 TUT-sound-events-2017-development/audio/street/b098.wav	city_center	222.738367	226.045193	car
 TUT-sound-events-2017-development/audio/street/b098.wav	city_center	225.159436	232.993465	car
-TUT-sound-events-2017-development/audio/street/b100.wav	city_center	0.0	1.519946	people speaking
-TUT-sound-events-2017-development/audio/street/b100.wav	city_center	5.642337	10.817569	people speaking
+TUT-sound-events-2017-development/audio/street/b100.wav	city_center	0.0	1.519946	people talking
+TUT-sound-events-2017-development/audio/street/b100.wav	city_center	5.642337	10.817569	people talking
 TUT-sound-events-2017-development/audio/street/b100.wav	city_center	8.511699	21.67221	car
-TUT-sound-events-2017-development/audio/street/b100.wav	city_center	13.212412	20.463668	people speaking
+TUT-sound-events-2017-development/audio/street/b100.wav	city_center	13.212412	20.463668	people talking
 TUT-sound-events-2017-development/audio/street/b100.wav	city_center	19.944662	33.527792	large vehicle
 TUT-sound-events-2017-development/audio/street/b100.wav	city_center	21.049403	33.527792	brakes squeaking
 TUT-sound-events-2017-development/audio/street/b100.wav	city_center	30.391512	43.010774	large vehicle
 TUT-sound-events-2017-development/audio/street/b100.wav	city_center	36.234038	41.535314	people walking
-TUT-sound-events-2017-development/audio/street/b100.wav	city_center	40.467644	42.069149	people speaking
+TUT-sound-events-2017-development/audio/street/b100.wav	city_center	40.467644	42.069149	people talking
 TUT-sound-events-2017-development/audio/street/b100.wav	city_center	44.723494	49.513179	people walking
 TUT-sound-events-2017-development/audio/street/b100.wav	city_center	46.873662	48.527067	car
 TUT-sound-events-2017-development/audio/street/b100.wav	city_center	48.816228	64.008277	car
 TUT-sound-events-2017-development/audio/street/b100.wav	city_center	59.270493	62.013811	people walking
-TUT-sound-events-2017-development/audio/street/b100.wav	city_center	59.715355	79.000138	people speaking
+TUT-sound-events-2017-development/audio/street/b100.wav	city_center	59.715355	79.000138	people talking
 TUT-sound-events-2017-development/audio/street/b100.wav	city_center	66.45502	76.01956	car
 TUT-sound-events-2017-development/audio/street/b100.wav	city_center	74.922233	88.535021	people walking
 TUT-sound-events-2017-development/audio/street/b100.wav	city_center	79.000138	97.017063	car
-TUT-sound-events-2017-development/audio/street/b100.wav	city_center	81.847257	84.946464	people speaking
-TUT-sound-events-2017-development/audio/street/b100.wav	city_center	99.715894	113.499212	people speaking
+TUT-sound-events-2017-development/audio/street/b100.wav	city_center	81.847257	84.946464	people talking
+TUT-sound-events-2017-development/audio/street/b100.wav	city_center	99.715894	113.499212	people talking
 TUT-sound-events-2017-development/audio/street/b100.wav	city_center	102.318339	111.007983	people walking
 TUT-sound-events-2017-development/audio/street/b100.wav	city_center	107.063537	132.005486	large vehicle
 TUT-sound-events-2017-development/audio/street/b100.wav	city_center	119.630898	125.028561	large vehicle
-TUT-sound-events-2017-development/audio/street/b100.wav	city_center	121.039629	131.493894	people speaking
+TUT-sound-events-2017-development/audio/street/b100.wav	city_center	121.039629	131.493894	people talking
 TUT-sound-events-2017-development/audio/street/b100.wav	city_center	124.761644	180.413923	people walking
-TUT-sound-events-2017-development/audio/street/b100.wav	city_center	135.74233	137.729381	people speaking
-TUT-sound-events-2017-development/audio/street/b100.wav	city_center	140.865661	150.037239	people speaking
+TUT-sound-events-2017-development/audio/street/b100.wav	city_center	135.74233	137.729381	people talking
+TUT-sound-events-2017-development/audio/street/b100.wav	city_center	140.865661	150.037239	people talking
 TUT-sound-events-2017-development/audio/street/b100.wav	city_center	143.71278	168.017093	large vehicle
-TUT-sound-events-2017-development/audio/street/b100.wav	city_center	151.20871	163.50174	people speaking
+TUT-sound-events-2017-development/audio/street/b100.wav	city_center	151.20871	163.50174	people talking
 TUT-sound-events-2017-development/audio/street/b100.wav	city_center	164.517509	172.006025	car
-TUT-sound-events-2017-development/audio/street/b100.wav	city_center	171.783594	180.413923	people speaking
+TUT-sound-events-2017-development/audio/street/b100.wav	city_center	171.783594	180.413923	people talking
 TUT-sound-events-2016-development/audio/home/a030.wav	home	5.940996	6.282603	(object) snapping
-TUT-sound-events-2016-development/audio/home/a030.wav	home	10.159102	10.693792	object impact
-TUT-sound-events-2016-development/audio/home/a030.wav	home	12.127057	12.490943	object impact
-TUT-sound-events-2016-development/audio/home/a030.wav	home	14.956456	15.364900	object impact
+TUT-sound-events-2016-development/audio/home/a030.wav	home	10.159102	10.693792	(object) impact
+TUT-sound-events-2016-development/audio/home/a030.wav	home	12.127057	12.490943	(object) impact
+TUT-sound-events-2016-development/audio/home/a030.wav	home	14.956456	15.364900	(object) impact
 TUT-sound-events-2016-development/audio/home/a030.wav	home	17.837839	18.261135	(object) snapping
-TUT-sound-events-2016-development/audio/home/a030.wav	home	18.751267	19.189416	object impact
-TUT-sound-events-2016-development/audio/home/a030.wav	home	23.310981	23.697146	object impact
+TUT-sound-events-2016-development/audio/home/a030.wav	home	18.751267	19.189416	(object) impact
+TUT-sound-events-2016-development/audio/home/a030.wav	home	23.310981	23.697146	(object) impact
 TUT-sound-events-2016-development/audio/home/a030.wav	home	28.761845	29.185141	(object) snapping
 TUT-sound-events-2016-development/audio/home/a030.wav	home	31.932851	32.430410	(object) snapping
 TUT-sound-events-2016-development/audio/home/a030.wav	home	33.447805	33.819117	(object) snapping
 TUT-sound-events-2016-development/audio/home/a030.wav	home	33.945364	35.556859	drawer
-TUT-sound-events-2016-development/audio/home/a030.wav	home	49.733559	50.149429	object impact
-TUT-sound-events-2016-development/audio/home/a030.wav	home	51.902023	52.392155	object impact
+TUT-sound-events-2016-development/audio/home/a030.wav	home	49.733559	50.149429	(object) impact
+TUT-sound-events-2016-development/audio/home/a030.wav	home	51.902023	52.392155	(object) impact
 TUT-sound-events-2016-development/audio/home/a030.wav	home	52.607516	52.926845	(object) snapping
 TUT-sound-events-2016-development/audio/home/a030.wav	home	52.993681	53.394698	drawer
-TUT-sound-events-2016-development/audio/home/a030.wav	home	53.520944	55.971605	object impact
+TUT-sound-events-2016-development/audio/home/a030.wav	home	53.520944	55.971605	(object) impact
 TUT-sound-events-2016-development/audio/home/a030.wav	home	56.513721	56.959295	(object) snapping
 TUT-sound-events-2016-development/audio/home/a030.wav	home	57.687067	58.333151	drawer
-TUT-sound-events-2016-development/audio/home/a030.wav	home	58.444544	58.904971	object impact
+TUT-sound-events-2016-development/audio/home/a030.wav	home	58.444544	58.904971	(object) impact
 TUT-sound-events-2016-development/audio/home/a030.wav	home	58.934676	59.736711	drawer
 TUT-sound-events-2016-development/audio/home/a030.wav	home	59.825826	60.353089	(object) snapping
 TUT-sound-events-2016-development/audio/home/a030.wav	home	61.088287	61.459599	(object) snapping
-TUT-sound-events-2016-development/audio/home/a030.wav	home	113.071999	113.695803	object impact
+TUT-sound-events-2016-development/audio/home/a030.wav	home	113.071999	113.695803	(object) impact
 TUT-sound-events-2016-development/audio/home/a030.wav	home	126.624895	127.211568	drawer
-TUT-sound-events-2016-development/audio/home/a030.wav	home	127.909635	128.659686	object impact
-TUT-sound-events-2016-development/audio/home/a030.wav	home	131.073215	131.875250	object impact
-TUT-sound-events-2016-development/audio/home/a030.wav	home	132.268841	132.877793	object impact
-TUT-sound-events-2016-development/audio/home/a030.wav	home	168.041060	168.583176	object impact
-TUT-sound-events-2016-development/audio/home/a030.wav	home	172.704742	173.499350	object impact
-TUT-sound-events-2016-development/audio/home/a030.wav	home	173.699859	179.885920	object impact
-TUT-sound-events-2016-development/audio/home/a031.wav	home	0.879372	1.522274	object impact
+TUT-sound-events-2016-development/audio/home/a030.wav	home	127.909635	128.659686	(object) impact
+TUT-sound-events-2016-development/audio/home/a030.wav	home	131.073215	131.875250	(object) impact
+TUT-sound-events-2016-development/audio/home/a030.wav	home	132.268841	132.877793	(object) impact
+TUT-sound-events-2016-development/audio/home/a030.wav	home	168.041060	168.583176	(object) impact
+TUT-sound-events-2016-development/audio/home/a030.wav	home	172.704742	173.499350	(object) impact
+TUT-sound-events-2016-development/audio/home/a030.wav	home	173.699859	179.885920	(object) impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	0.879372	1.522274	(object) impact
 TUT-sound-events-2016-development/audio/home/a031.wav	home	2.261242	4.411638	people walking
-TUT-sound-events-2016-development/audio/home/a031.wav	home	4.685056	5.305789	object impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	4.685056	5.305789	(object) impact
 TUT-sound-events-2016-development/audio/home/a031.wav	home	5.379686	7.145819	people walking
-TUT-sound-events-2016-development/audio/home/a031.wav	home	6.517696	6.901960	object impact
-TUT-sound-events-2016-development/audio/home/a031.wav	home	8.409454	10.692865	water tap running 
-TUT-sound-events-2016-development/audio/home/a031.wav	home	12.658519	14.542887	water tap running 
-TUT-sound-events-2016-development/audio/home/a031.wav	home	20.476799	20.979297	object impact
-TUT-sound-events-2016-development/audio/home/a031.wav	home	22.361167	22.723261	object impact
-TUT-sound-events-2016-development/audio/home/a031.wav	home	23.388332	23.979506	object impact
-TUT-sound-events-2016-development/audio/home/a031.wav	home	24.748033	25.065789	object impact
-TUT-sound-events-2016-development/audio/home/a031.wav	home	25.361376	26.144682	water tap running 
-TUT-sound-events-2016-development/audio/home/a031.wav	home	26.758025	27.134899	object impact
-TUT-sound-events-2016-development/audio/home/a031.wav	home	28.280299	31.923411	water tap running 
+TUT-sound-events-2016-development/audio/home/a031.wav	home	6.517696	6.901960	(object) impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	8.409454	10.692865	water tap running
+TUT-sound-events-2016-development/audio/home/a031.wav	home	12.658519	14.542887	water tap running
+TUT-sound-events-2016-development/audio/home/a031.wav	home	20.476799	20.979297	(object) impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	22.361167	22.723261	(object) impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	23.388332	23.979506	(object) impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	24.748033	25.065789	(object) impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	25.361376	26.144682	water tap running
+TUT-sound-events-2016-development/audio/home/a031.wav	home	26.758025	27.134899	(object) impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	28.280299	31.923411	water tap running
 TUT-sound-events-2016-development/audio/home/a031.wav	home	33.726492	35.751264	washing dishes
 TUT-sound-events-2016-development/audio/home/a031.wav	home	35.751264	36.157696	washing dishes
 TUT-sound-events-2016-development/audio/home/a031.wav	home	37.066627	41.086612	washing dishes
@@ -405,22 +405,22 @@ TUT-sound-events-2016-development/audio/home/a031.wav	home	42.187674	48.468901	w
 TUT-sound-events-2016-development/audio/home/a031.wav	home	42.978369	43.177891	(object) snapping
 TUT-sound-events-2016-development/audio/home/a031.wav	home	50.249813	52.769693	people walking
 TUT-sound-events-2016-development/audio/home/a031.wav	home	50.501062	53.050501	washing dishes
-TUT-sound-events-2016-development/audio/home/a031.wav	home	53.198295	53.981601	object impact
-TUT-sound-events-2016-development/audio/home/a031.wav	home	54.727958	61.718594	water tap running 
+TUT-sound-events-2016-development/audio/home/a031.wav	home	53.198295	53.981601	(object) impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	54.727958	61.718594	water tap running
 TUT-sound-events-2016-development/audio/home/a031.wav	home	65.369095	66.965266	cutlery
 TUT-sound-events-2016-development/audio/home/a031.wav	home	69.507315	70.290621	dishes
-TUT-sound-events-2016-development/audio/home/a031.wav	home	71.635542	74.458399	water tap running 
-TUT-sound-events-2016-development/audio/home/a031.wav	home	77.946328	79.993269	object impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	71.635542	74.458399	water tap running
+TUT-sound-events-2016-development/audio/home/a031.wav	home	77.946328	79.993269	(object) impact
 TUT-sound-events-2016-development/audio/home/a031.wav	home	81.057382	97.669379	washing dishes
 TUT-sound-events-2016-development/audio/home/a031.wav	home	97.721107	99.250770	dishes
 TUT-sound-events-2016-development/audio/home/a031.wav	home	99.428123	103.861930	washing dishes
 TUT-sound-events-2016-development/audio/home/a031.wav	home	104.497442	104.896485	(object) snapping
-TUT-sound-events-2016-development/audio/home/a031.wav	home	107.327689	118.308751	water tap running 
+TUT-sound-events-2016-development/audio/home/a031.wav	home	107.327689	118.308751	water tap running
 TUT-sound-events-2016-development/audio/home/a031.wav	home	120.747345	122.653882	cutlery
-TUT-sound-events-2016-development/audio/home/a031.wav	home	131.624951	133.169394	water tap running 
-TUT-sound-events-2016-development/audio/home/a031.wav	home	133.590606	135.253283	object impact
-TUT-sound-events-2016-development/audio/home/a031.wav	home	135.423246	136.021810	object impact
-TUT-sound-events-2016-development/audio/home/a031.wav	home	140.108302	140.729035	object impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	131.624951	133.169394	water tap running
+TUT-sound-events-2016-development/audio/home/a031.wav	home	133.590606	135.253283	(object) impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	135.423246	136.021810	(object) impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	140.108302	140.729035	(object) impact
 TUT-sound-events-2016-development/audio/home/a031.wav	home	142.170022	155.700524	washing dishes
 TUT-sound-events-2016-development/audio/home/a031.wav	home	142.421272	142.812924	dishes
 TUT-sound-events-2016-development/audio/home/a031.wav	home	149.892236	154.865490	dishes
@@ -430,91 +430,91 @@ TUT-sound-events-2016-development/audio/home/a031.wav	home	157.392760	162.284727
 TUT-sound-events-2016-development/audio/home/a031.wav	home	162.624652	164.058250	dishes
 TUT-sound-events-2016-development/audio/home/a031.wav	home	163.976963	167.043680	washing dishes
 TUT-sound-events-2016-development/audio/home/a031.wav	home	167.376215	167.775258	(object) snapping
-TUT-sound-events-2016-development/audio/home/a031.wav	home	168.654630	177.640479	water tap running 
-TUT-sound-events-2016-development/audio/home/a036.wav	home	4.061150	9.865986	water tap running 
-TUT-sound-events-2016-development/audio/home/a036.wav	home	5.044768	9.262402	object impact
+TUT-sound-events-2016-development/audio/home/a031.wav	home	168.654630	177.640479	water tap running
+TUT-sound-events-2016-development/audio/home/a036.wav	home	4.061150	9.865986	water tap running
+TUT-sound-events-2016-development/audio/home/a036.wav	home	5.044768	9.262402	(object) impact
 TUT-sound-events-2016-development/audio/home/a036.wav	home	13.755747	14.202846	(object) snapping
-TUT-sound-events-2016-development/audio/home/a036.wav	home	16.661891	17.131345	object impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	16.661891	17.131345	(object) impact
 TUT-sound-events-2016-development/audio/home/a036.wav	home	18.785612	19.165646	(object) snapping
 TUT-sound-events-2016-development/audio/home/a036.wav	home	35.894602	37.712805	(object) snapping
-TUT-sound-events-2016-development/audio/home/a036.wav	home	37.004898	38.338743	object impact
-TUT-sound-events-2016-development/audio/home/a036.wav	home	38.748584	39.508653	object impact
-TUT-sound-events-2016-development/audio/home/a036.wav	home	40.499722	41.334307	object impact
-TUT-sound-events-2016-development/audio/home/a036.wav	home	57.683229	58.689202	object impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	37.004898	38.338743	(object) impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	38.748584	39.508653	(object) impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	40.499722	41.334307	(object) impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	57.683229	58.689202	(object) impact
 TUT-sound-events-2016-development/audio/home/a036.wav	home	59.374754	59.985789	(object) snapping
-TUT-sound-events-2016-development/audio/home/a036.wav	home	61.200408	61.789089	object impact
-TUT-sound-events-2016-development/audio/home/a036.wav	home	62.750352	63.301774	object impact
-TUT-sound-events-2016-development/audio/home/a036.wav	home	63.592388	64.710136	object impact
-TUT-sound-events-2016-development/audio/home/a036.wav	home	68.346541	69.002287	object impact
-TUT-sound-events-2016-development/audio/home/a036.wav	home	69.732548	70.835393	object impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	61.200408	61.789089	(object) impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	62.750352	63.301774	(object) impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	63.592388	64.710136	(object) impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	68.346541	69.002287	(object) impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	69.732548	70.835393	(object) impact
 TUT-sound-events-2016-development/audio/home/a036.wav	home	71.245233	72.087270	people walking
-TUT-sound-events-2016-development/audio/home/a036.wav	home	72.355529	72.869693	object impact
-TUT-sound-events-2016-development/audio/home/a036.wav	home	73.249728	73.778795	object impact
-TUT-sound-events-2016-development/audio/home/a036.wav	home	73.510535	85.783404	water tap running 
-TUT-sound-events-2016-development/audio/home/a036.wav	home	86.260310	88.525612	water tap running 
+TUT-sound-events-2016-development/audio/home/a036.wav	home	72.355529	72.869693	(object) impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	73.249728	73.778795	(object) impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	73.510535	85.783404	water tap running
+TUT-sound-events-2016-development/audio/home/a036.wav	home	86.260310	88.525612	water tap running
 TUT-sound-events-2016-development/audio/home/a036.wav	home	88.659741	92.705988	people walking
 TUT-sound-events-2016-development/audio/home/a036.wav	home	89.293132	89.814747	(object) snapping
-TUT-sound-events-2016-development/audio/home/a036.wav	home	91.357239	92.050243	object impact
-TUT-sound-events-2016-development/audio/home/a036.wav	home	110.299335	112.646605	object impact
-TUT-sound-events-2016-development/audio/home/a036.wav	home	114.621293	116.499109	object impact
-TUT-sound-events-2016-development/audio/home/a036.wav	home	121.819588	124.554343	object impact
-TUT-sound-events-2016-development/audio/home/a036.wav	home	125.627381	127.408326	object impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	91.357239	92.050243	(object) impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	110.299335	112.646605	(object) impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	114.621293	116.499109	(object) impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	121.819588	124.554343	(object) impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	125.627381	127.408326	(object) impact
 TUT-sound-events-2016-development/audio/home/a036.wav	home	136.909180	140.120842	(object) rustling
-TUT-sound-events-2016-development/audio/home/a036.wav	home	141.655882	142.564983	object impact
-TUT-sound-events-2016-development/audio/home/a036.wav	home	144.934608	146.283357	object impact
-TUT-sound-events-2016-development/audio/home/a036.wav	home	150.255087	151.626191	water tap running 
-TUT-sound-events-2016-development/audio/home/a036.wav	home	151.864644	152.580002	water tap running 
+TUT-sound-events-2016-development/audio/home/a036.wav	home	141.655882	142.564983	(object) impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	144.934608	146.283357	(object) impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	150.255087	151.626191	water tap running
+TUT-sound-events-2016-development/audio/home/a036.wav	home	151.864644	152.580002	water tap running
 TUT-sound-events-2016-development/audio/home/a036.wav	home	155.709695	158.377386	people walking
-TUT-sound-events-2016-development/audio/home/a036.wav	home	158.377386	160.046556	object impact
-TUT-sound-events-2016-development/audio/home/a036.wav	home	168.302985	170.553384	water tap running 
-TUT-sound-events-2016-development/audio/home/a038.wav	home	0.726097	3.008114	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	14.729388	15.218391	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	17.670820	18.774783	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	19.411969	19.752790	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	23.220272	24.679874	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	29.095727	29.525457	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	29.762550	33.378215	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	37.067971	37.608839	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	38.386799	38.816530	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	47.507461	47.833464	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	50.930488	51.767722	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	53.234733	53.686691	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	55.546387	55.931663	object impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	158.377386	160.046556	(object) impact
+TUT-sound-events-2016-development/audio/home/a036.wav	home	168.302985	170.553384	water tap running
+TUT-sound-events-2016-development/audio/home/a038.wav	home	0.726097	3.008114	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	14.729388	15.218391	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	17.670820	18.774783	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	19.411969	19.752790	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	23.220272	24.679874	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	29.095727	29.525457	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	29.762550	33.378215	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	37.067971	37.608839	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	38.386799	38.816530	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	47.507461	47.833464	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	50.930488	51.767722	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	53.234733	53.686691	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	55.546387	55.931663	(object) impact
 TUT-sound-events-2016-development/audio/home/a038.wav	home	58.117362	59.799239	(object) rustling
-TUT-sound-events-2016-development/audio/home/a038.wav	home	58.576729	59.665874	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	60.147469	60.792065	object impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	58.576729	59.665874	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	60.147469	60.792065	(object) impact
 TUT-sound-events-2016-development/audio/home/a038.wav	home	60.658700	65.319054	(object) rustling
-TUT-sound-events-2016-development/audio/home/a038.wav	home	67.645527	68.430897	object impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	67.645527	68.430897	(object) impact
 TUT-sound-events-2016-development/audio/home/a038.wav	home	68.393851	68.890264	(object) snapping
-TUT-sound-events-2016-development/audio/home/a038.wav	home	69.186630	69.549678	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	69.668225	70.209093	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	73.069024	73.743257	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	75.891910	78.188746	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	78.900024	79.552029	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	81.989639	82.397142	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	82.989874	83.345513	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	83.930836	84.953298	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	85.583076	86.331400	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	91.184392	91.888262	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	93.066316	94.244371	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	94.800057	96.400433	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	97.415486	98.393494	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	98.852861	102.631527	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	103.365033	106.788060	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	108.017978	109.173805	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	110.270359	111.729962	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	117.205323	118.413014	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	117.205323	117.857328	object impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	69.186630	69.549678	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	69.668225	70.209093	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	73.069024	73.743257	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	75.891910	78.188746	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	78.900024	79.552029	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	81.989639	82.397142	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	82.989874	83.345513	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	83.930836	84.953298	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	85.583076	86.331400	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	91.184392	91.888262	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	93.066316	94.244371	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	94.800057	96.400433	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	97.415486	98.393494	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	98.852861	102.631527	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	103.365033	106.788060	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	108.017978	109.173805	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	110.270359	111.729962	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	117.205323	118.413014	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	117.205323	117.857328	(object) impact
 TUT-sound-events-2016-development/audio/home/a038.wav	home	119.279884	121.065489	people walking
 TUT-sound-events-2016-development/audio/home/a038.wav	home	138.921537	142.285291	people walking
-TUT-sound-events-2016-development/audio/home/a038.wav	home	144.315397	150.257535	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	152.146868	153.280467	object impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	144.315397	150.257535	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	152.146868	153.280467	(object) impact
 TUT-sound-events-2016-development/audio/home/a038.wav	home	159.830155	160.919300	people walking
-TUT-sound-events-2016-development/audio/home/a038.wav	home	160.845208	161.526850	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	162.504857	166.913301	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	168.506268	172.262706	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	173.270350	173.944583	object impact
-TUT-sound-events-2016-development/audio/home/a038.wav	home	176.078418	179.323625	object impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	160.845208	161.526850	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	162.504857	166.913301	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	168.506268	172.262706	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	173.270350	173.944583	(object) impact
+TUT-sound-events-2016-development/audio/home/a038.wav	home	176.078418	179.323625	(object) impact
 TUT-sound-events-2016-development/audio/home/a038.wav	home	177.908477	178.649392	cupboard
 TUT-sound-events-2016-development/audio/home/a038.wav	home	179.034668	181.138866	people walking
 TUT-sound-events-2016-development/audio/home/b029.wav	home	108.735137	116.216382	people walking
@@ -526,8 +526,8 @@ TUT-sound-events-2016-development/audio/home/b029.wav	home	122.296500	125.561511
 TUT-sound-events-2016-development/audio/home/b029.wav	home	125.947142	129.147881	(object) rustling
 TUT-sound-events-2016-development/audio/home/b029.wav	home	129.147881	129.910573	drawer
 TUT-sound-events-2016-development/audio/home/b029.wav	home	130.634703	137.117592	people walking
-TUT-sound-events-2016-development/audio/home/b029.wav	home	148.729375	149.067873	object impact
-TUT-sound-events-2016-development/audio/home/b032.wav	home	0.000000	59.117809	water tap running 
+TUT-sound-events-2016-development/audio/home/b029.wav	home	148.729375	149.067873	(object) impact
+TUT-sound-events-2016-development/audio/home/b032.wav	home	0.000000	59.117809	water tap running
 TUT-sound-events-2016-development/audio/home/b032.wav	home	0.361414	1.201171	dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	1.998408	2.285414	dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	3.603513	4.485789	dishes
@@ -543,29 +543,29 @@ TUT-sound-events-2016-development/audio/home/b032.wav	home	21.424426	22.314674	d
 TUT-sound-events-2016-development/audio/home/b032.wav	home	23.975585	24.166922	dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	24.738276	25.479707	dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	29.463236	30.146203	dishes
-TUT-sound-events-2016-development/audio/home/b032.wav	home	31.445700	32.025026	object impact
+TUT-sound-events-2016-development/audio/home/b032.wav	home	31.445700	32.025026	(object) impact
 TUT-sound-events-2016-development/audio/home/b032.wav	home	33.430821	34.121760	dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	34.422053	35.176771	cutlery
-TUT-sound-events-2016-development/audio/home/b032.wav	home	34.996224	35.176771	object impact
+TUT-sound-events-2016-development/audio/home/b032.wav	home	34.996224	35.176771	(object) impact
 TUT-sound-events-2016-development/audio/home/b032.wav	home	39.147013	39.282543	dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	44.467244	44.589487	dishes
-TUT-sound-events-2016-development/audio/home/b032.wav	home	50.010701	50.369458	object impact
+TUT-sound-events-2016-development/audio/home/b032.wav	home	50.010701	50.369458	(object) impact
 TUT-sound-events-2016-development/audio/home/b032.wav	home	54.794125	55.152882	(object) snapping
-TUT-sound-events-2016-development/audio/home/b032.wav	home	59.814063	65.192758	water tap running 
+TUT-sound-events-2016-development/audio/home/b032.wav	home	59.814063	65.192758	water tap running
 TUT-sound-events-2016-development/audio/home/b032.wav	home	61.294267	62.057131	cupboard
 TUT-sound-events-2016-development/audio/home/b032.wav	home	68.509266	69.369856	washing dishes
-TUT-sound-events-2016-development/audio/home/b032.wav	home	69.582879	70.364171	water tap running 
-TUT-sound-events-2016-development/audio/home/b032.wav	home	70.784341	71.214558	object impact
+TUT-sound-events-2016-development/audio/home/b032.wav	home	69.582879	70.364171	water tap running
+TUT-sound-events-2016-development/audio/home/b032.wav	home	70.784341	71.214558	(object) impact
 TUT-sound-events-2016-development/audio/home/b032.wav	home	74.384905	75.524954	drawer
-TUT-sound-events-2016-development/audio/home/b032.wav	home	76.577308	77.175236	object impact
+TUT-sound-events-2016-development/audio/home/b032.wav	home	76.577308	77.175236	(object) impact
 TUT-sound-events-2016-development/audio/home/b032.wav	home	77.770506	78.461445	washing dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	78.501307	78.809572	cutlery
 TUT-sound-events-2016-development/audio/home/b032.wav	home	79.157699	80.268517	dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	80.374815	83.388372	washing dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	83.484041	84.414151	washing dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	84.855289	86.662361	washing dishes
-TUT-sound-events-2016-development/audio/home/b032.wav	home	84.985505	85.360206	object impact
-TUT-sound-events-2016-development/audio/home/b032.wav	home	86.662361	87.334698	object impact
+TUT-sound-events-2016-development/audio/home/b032.wav	home	84.985505	85.360206	(object) impact
+TUT-sound-events-2016-development/audio/home/b032.wav	home	86.662361	87.334698	(object) impact
 TUT-sound-events-2016-development/audio/home/b032.wav	home	87.892764	88.336559	dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	88.721891	89.043443	dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	89.056730	89.465979	cutlery
@@ -577,8 +577,8 @@ TUT-sound-events-2016-development/audio/home/b032.wav	home	94.576270	95.477149	d
 TUT-sound-events-2016-development/audio/home/b032.wav	home	95.777441	97.260303	washing dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	97.746618	100.600728	washing dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	100.800037	101.267749	(object) snapping
-TUT-sound-events-2016-development/audio/home/b032.wav	home	101.615876	101.878965	object impact
-TUT-sound-events-2016-development/audio/home/b032.wav	home	101.878965	102.123451	object impact
+TUT-sound-events-2016-development/audio/home/b032.wav	home	101.615876	101.878965	(object) impact
+TUT-sound-events-2016-development/audio/home/b032.wav	home	101.878965	102.123451	(object) impact
 TUT-sound-events-2016-development/audio/home/b032.wav	home	102.123451	102.261639	(object) snapping
 TUT-sound-events-2016-development/audio/home/b032.wav	home	102.559274	104.331798	dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	105.214074	108.262179	washing dishes
@@ -601,11 +601,11 @@ TUT-sound-events-2016-development/audio/home/b032.wav	home	150.824025	153.539947
 TUT-sound-events-2016-development/audio/home/b032.wav	home	153.758379	156.857685	washing dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	158.823765	161.895765	washing dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	162.048683	163.506859	dishes
-TUT-sound-events-2016-development/audio/home/b032.wav	home	164.115797	164.509013	object impact
+TUT-sound-events-2016-development/audio/home/b032.wav	home	164.115797	164.509013	(object) impact
 TUT-sound-events-2016-development/audio/home/b032.wav	home	167.529131	169.375061	washing dishes
-TUT-sound-events-2016-development/audio/home/b032.wav	home	169.806507	170.131456	object impact
+TUT-sound-events-2016-development/audio/home/b032.wav	home	169.806507	170.131456	(object) impact
 TUT-sound-events-2016-development/audio/home/b032.wav	home	171.218261	176.584021	washing dishes
-TUT-sound-events-2016-development/audio/home/b032.wav	home	177.728171	177.971200	object impact
+TUT-sound-events-2016-development/audio/home/b032.wav	home	177.728171	177.971200	(object) impact
 TUT-sound-events-2016-development/audio/home/b032.wav	home	179.372032	179.833515	dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	180.357803	187.219968	washing dishes
 TUT-sound-events-2016-development/audio/home/b032.wav	home	188.932096	191.124821	cupboard
@@ -640,32 +640,32 @@ TUT-sound-events-2016-development/audio/home/b032.wav	home	290.930688	296.072533
 TUT-sound-events-2016-development/audio/home/b032.wav	home	297.298603	298.014037	glass jingling
 TUT-sound-events-2016-development/audio/home/b032.wav	home	298.311680	300.173995	dishes
 TUT-sound-events-2016-development/audio/home/b033.wav	home	2.935944	16.516831	(object) rustling
-TUT-sound-events-2016-development/audio/home/b033.wav	home	16.748616	17.014740	object impact
+TUT-sound-events-2016-development/audio/home/b033.wav	home	16.748616	17.014740	(object) impact
 TUT-sound-events-2016-development/audio/home/b033.wav	home	17.383879	21.452994	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	24.414692	25.135801	(object) rustling
-TUT-sound-events-2016-development/audio/home/b033.wav	home	25.135801	25.882664	object impact
+TUT-sound-events-2016-development/audio/home/b033.wav	home	25.135801	25.882664	(object) impact
 TUT-sound-events-2016-development/audio/home/b033.wav	home	26.972912	29.204916	people walking
 TUT-sound-events-2016-development/audio/home/b033.wav	home	29.204916	33.119508	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	38.132933	38.714542	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	39.403459	39.772598	cupboard
-TUT-sound-events-2016-development/audio/home/b033.wav	home	43.646413	44.017698	object impact
+TUT-sound-events-2016-development/audio/home/b033.wav	home	43.646413	44.017698	(object) impact
 TUT-sound-events-2016-development/audio/home/b033.wav	home	44.549945	45.919194	dishes
 TUT-sound-events-2016-development/audio/home/b033.wav	home	47.226204	47.739136	cupboard
-TUT-sound-events-2016-development/audio/home/b033.wav	home	49.033269	50.250141	object impact
-TUT-sound-events-2016-development/audio/home/b033.wav	home	56.027598	56.246506	object impact
-TUT-sound-events-2016-development/audio/home/b033.wav	home	58.120102	59.083726	object impact
+TUT-sound-events-2016-development/audio/home/b033.wav	home	49.033269	50.250141	(object) impact
+TUT-sound-events-2016-development/audio/home/b033.wav	home	56.027598	56.246506	(object) impact
+TUT-sound-events-2016-development/audio/home/b033.wav	home	58.120102	59.083726	(object) impact
 TUT-sound-events-2016-development/audio/home/b033.wav	home	62.637764	63.311657	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	64.796799	65.805493	cutlery
 TUT-sound-events-2016-development/audio/home/b033.wav	home	67.277757	67.430134	cupboard
 TUT-sound-events-2016-development/audio/home/b033.wav	home	68.737145	70.046301	(object) snapping
-TUT-sound-events-2016-development/audio/home/b033.wav	home	70.949833	71.269611	object impact
-TUT-sound-events-2016-development/audio/home/b033.wav	home	72.061543	72.488629	object impact
+TUT-sound-events-2016-development/audio/home/b033.wav	home	70.949833	71.269611	(object) impact
+TUT-sound-events-2016-development/audio/home/b033.wav	home	72.061543	72.488629	(object) impact
 TUT-sound-events-2016-development/audio/home/b033.wav	home	75.767958	75.956820	(object) snapping
 TUT-sound-events-2016-development/audio/home/b033.wav	home	77.330361	79.015095	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	79.309118	79.457203	(object) snapping
 TUT-sound-events-2016-development/audio/home/b033.wav	home	79.794150	80.551744	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	81.322214	81.607653	(object) rustling
-TUT-sound-events-2016-development/audio/home/b033.wav	home	83.206541	83.650796	object impact
+TUT-sound-events-2016-development/audio/home/b033.wav	home	83.206541	83.650796	(object) impact
 TUT-sound-events-2016-development/audio/home/b033.wav	home	86.848571	87.494564	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	90.969194	93.302068	dishes
 TUT-sound-events-2016-development/audio/home/b033.wav	home	93.302068	96.276642	(object) rustling
@@ -673,47 +673,47 @@ TUT-sound-events-2016-development/audio/home/b033.wav	home	97.017067	97.489222	(
 TUT-sound-events-2016-development/audio/home/b033.wav	home	98.169554	98.594493	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	99.407887	99.708349	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	100.568958	102.481185	(object) rustling
-TUT-sound-events-2016-development/audio/home/b033.wav	home	103.339648	103.534948	object impact
+TUT-sound-events-2016-development/audio/home/b033.wav	home	103.339648	103.534948	(object) impact
 TUT-sound-events-2016-development/audio/home/b033.wav	home	104.198111	106.116776	(object) rustling
-TUT-sound-events-2016-development/audio/home/b033.wav	home	107.245655	107.462417	object impact
+TUT-sound-events-2016-development/audio/home/b033.wav	home	107.245655	107.462417	(object) impact
 TUT-sound-events-2016-development/audio/home/b033.wav	home	108.142749	116.714504	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	116.978481	120.528226	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	120.528226	124.144503	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	125.348497	125.983760	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	131.241847	132.297756	(object) snapping
 TUT-sound-events-2016-development/audio/home/b033.wav	home	133.928836	134.615607	drawer
-TUT-sound-events-2016-development/audio/home/b033.wav	home	137.980782	138.279098	object impact
+TUT-sound-events-2016-development/audio/home/b033.wav	home	137.980782	138.279098	(object) impact
 TUT-sound-events-2016-development/audio/home/b033.wav	home	139.684832	141.090565	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	142.595022	143.114392	drawer
 TUT-sound-events-2016-development/audio/home/b033.wav	home	145.189727	146.015997	(object) rustling
-TUT-sound-events-2016-development/audio/home/b033.wav	home	152.885849	153.109049	object impact
-TUT-sound-events-2016-development/audio/home/b033.wav	home	161.672219	161.893273	object impact
+TUT-sound-events-2016-development/audio/home/b033.wav	home	152.885849	153.109049	(object) impact
+TUT-sound-events-2016-development/audio/home/b033.wav	home	161.672219	161.893273	(object) impact
 TUT-sound-events-2016-development/audio/home/b033.wav	home	162.713106	164.938671	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	181.464087	182.406250	drawer
 TUT-sound-events-2016-development/audio/home/b033.wav	home	182.640182	186.556920	(object) rustling
-TUT-sound-events-2016-development/audio/home/b033.wav	home	191.754914	193.158501	water tap running 
-TUT-sound-events-2016-development/audio/home/b033.wav	home	193.276540	193.847418	object impact
+TUT-sound-events-2016-development/audio/home/b033.wav	home	191.754914	193.158501	water tap running
+TUT-sound-events-2016-development/audio/home/b033.wav	home	193.276540	193.847418	(object) impact
 TUT-sound-events-2016-development/audio/home/b033.wav	home	194.514873	195.338998	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	203.603852	203.897875	(object) snapping
 TUT-sound-events-2016-development/audio/home/b033.wav	home	206.320888	206.662127	(object) snapping
 TUT-sound-events-2016-development/audio/home/b033.wav	home	208.941346	209.361993	dishes
 TUT-sound-events-2016-development/audio/home/b033.wav	home	214.195141	215.184520	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	215.918506	216.143852	drawer
-TUT-sound-events-2016-development/audio/home/b033.wav	home	217.199762	218.708511	water tap running 
+TUT-sound-events-2016-development/audio/home/b033.wav	home	217.199762	218.708511	water tap running
 TUT-sound-events-2016-development/audio/home/b033.wav	home	219.330897	219.953283	(object) snapping
 TUT-sound-events-2016-development/audio/home/b033.wav	home	221.354724	224.101806	(object) rustling
-TUT-sound-events-2016-development/audio/home/b033.wav	home	224.101806	224.359345	object impact
+TUT-sound-events-2016-development/audio/home/b033.wav	home	224.101806	224.359345	(object) impact
 TUT-sound-events-2016-development/audio/home/b033.wav	home	225.273608	226.887519	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	228.724630	230.973803	(object) rustling
 TUT-sound-events-2016-development/audio/home/b033.wav	home	231.315042	237.204100	(object) rustling
-TUT-sound-events-2016-development/audio/home/b033.wav	home	240.801060	240.856860	object impact
+TUT-sound-events-2016-development/audio/home/b033.wav	home	240.801060	240.856860	(object) impact
 TUT-sound-events-2016-development/audio/home/b044.wav	home	77.411472	77.643185	cupboard
-TUT-sound-events-2016-development/audio/home/b044.wav	home	143.971050	144.897902	object impact
+TUT-sound-events-2016-development/audio/home/b044.wav	home	143.971050	144.897902	(object) impact
 TUT-sound-events-2016-development/audio/home/b044.wav	home	146.365418	146.539203	cupboard
 TUT-sound-events-2016-development/audio/home/b044.wav	home	147.852244	148.038901	(object) snapping
 TUT-sound-events-2016-development/audio/home/b044.wav	home	150.642455	151.028643	cupboard
-TUT-sound-events-2016-development/audio/home/b044.wav	home	153.072224	153.181644	object impact
-TUT-sound-events-2016-development/audio/home/b044.wav	home	154.092405	154.259753	object impact
+TUT-sound-events-2016-development/audio/home/b044.wav	home	153.072224	153.181644	(object) impact
+TUT-sound-events-2016-development/audio/home/b044.wav	home	154.092405	154.259753	(object) impact
 TUT-sound-events-2016-development/audio/home/b044.wav	home	158.791031	158.966425	(object) snapping
 TUT-sound-events-2016-development/audio/home/b044.wav	home	160.577153	161.336656	cupboard
 TUT-acoustic-scenes-2016-development/audio/a120_0_30.wav	office	0.000000	30.000000	fan
@@ -2977,42 +2977,42 @@ TUT-acoustic-scenes-2016-development/audio/b116_90_120.wav	office	27.780426	27.9
 TUT-acoustic-scenes-2016-development/audio/b116_90_120.wav	office	28.491576	28.626711	mouse clicking
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	1.589213	2.383820	people walking
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	3.500767	4.156693	people walking
-TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	4.156693	14.003070	car passing by
+TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	4.156693	14.003070	car
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	6.784142	7.413831	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	8.508289	11.844138	car passing by
+TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	8.508289	11.844138	car
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	12.245767	13.467364	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	14.381632	20.000102	car passing by
+TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	14.381632	20.000102	car
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	15.165682	18.115393	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	21.124545	23.703269	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	21.304456	30.030138	car passing by
+TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	21.304456	30.030138	car
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	24.610715	25.897808	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	28.973161	31.117100	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	32.536710	32.695069	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	35.862251	43.373534	car passing by
-TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	43.373534	49.445529	car passing by
-TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	70.465126	73.744753	car passing by
-TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	72.339198	77.204290	car passing by
+TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	35.862251	43.373534	car
+TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	43.373534	49.445529	car
+TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	70.465126	73.744753	car
+TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	72.339198	77.204290	car
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	76.627076	77.721534	people walking
-TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	84.040907	94.610676	people speaking
+TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	84.040907	94.610676	people talking
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	89.153377	100.037990	people walking
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	99.217530	116.897146	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	102.976535	106.844621	people speaking
+TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	102.976535	106.844621	people talking
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	112.446534	115.485629	people walking
-TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	116.897146	133.958702	car passing by
+TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	116.897146	133.958702	car
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	118.345954	119.895297	people walking
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	129.925698	133.273276	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	131.753728	133.273276	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	134.494873	136.014421	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	134.763029	135.805856	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	137.077158	143.928767	car passing by
+TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	137.077158	143.928767	car
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	138.249050	139.341038	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	140.060682	149.550985	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	143.928767	153.014271	car passing by
+TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	143.928767	153.014271	car
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	151.814864	159.611006	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	153.265757	155.351411	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	159.386117	168.006851	car passing by
+TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	159.386117	168.006851	car
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	161.757348	162.591609	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	168.006851	176.042874	car passing by
+TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	168.006851	176.042874	car
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	168.878366	169.414677	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a001.wav	residential_area	176.447673	181.050395	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	2.816400	8.554627	wind blowing
@@ -3037,7 +3037,7 @@ TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_ar
 TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	148.290245	151.904876	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a002.wav	residential_area	154.886947	157.085847	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_area	0.000000	47.493408	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_area	0.138062	5.332654	car passing by
+TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_area	0.138062	5.332654	car
 TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_area	49.063866	64.440548	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_area	60.246907	63.206616	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_area	63.206616	85.529554	bird singing
@@ -3053,7 +3053,7 @@ TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_ar
 TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_area	105.591722	109.457465	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_area	110.087374	113.573445	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_area	116.429607	129.036415	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_area	128.544568	134.481244	car passing by
+TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_area	128.544568	134.481244	car
 TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_area	133.342231	173.578743	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_area	134.161976	135.715176	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_area	137.648047	138.424647	bird singing
@@ -3065,98 +3065,98 @@ TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_ar
 TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_area	200.414590	204.418395	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_area	206.730937	209.198799	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a010.wav	residential_area	209.966771	210.355071	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	0.000000	0.856625	people speaking
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	0.000000	0.856625	people talking
 TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	1.757407	2.728838	(object) banging
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	2.313772	3.258709	people speaking
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	6.853004	21.053558	people speaking
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	11.277430	11.674834	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	2.313772	3.258709	people talking
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	6.853004	21.053558	people talking
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	11.277430	11.674834	children
 TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	12.451978	13.352760	people walking
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	25.363179	30.087866	people speaking
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	32.966834	53.057792	people speaking
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	35.024501	38.989706	car passing by
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	25.363179	30.087866	people talking
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	32.966834	53.057792	people talking
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	35.024501	38.989706	car
 TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	46.125308	47.485311	people walking
 TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	49.622459	50.258305	people walking
 TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	51.574152	58.144558	people walking
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	55.283252	64.503015	people speaking
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	72.592385	73.404855	children shouting
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	77.149279	78.579932	children shouting
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	79.330584	84.744103	car passing by
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	92.029835	97.840759	car passing by
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	55.283252	64.503015	people talking
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	72.592385	73.404855	children
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	77.149279	78.579932	children
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	79.330584	84.744103	car
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	92.029835	97.840759	car
 TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	99.156606	100.304661	(object) banging
 TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	101.788301	103.377915	(object) banging
 TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	103.792981	106.442338	(object) banging
 TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	107.192989	125.508878	people walking
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	108.261563	113.365991	car passing by
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	120.015878	125.835632	car passing by
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	108.261563	113.365991	car
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	120.015878	125.835632	car
 TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	125.835632	127.804988	people walking
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	127.548883	131.266814	car passing by
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	136.062151	139.479821	people speaking
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	127.548883	131.266814	car
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	136.062151	139.479821	people talking
 TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	137.298517	137.987350	(object) banging
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	140.883981	146.421137	people speaking
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	148.205038	160.091820	people speaking
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	140.883981	146.421137	people talking
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	148.205038	160.091820	people talking
 TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	160.347924	164.083518	people walking
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	162.591047	169.408726	people speaking
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	178.734463	184.518893	people speaking
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	162.591047	169.408726	people talking
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	178.734463	184.518893	people talking
 TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	184.845647	187.565653	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	189.808776	193.906448	car passing by
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	193.588525	198.622304	car passing by
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	189.808776	193.906448	car
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	193.588525	198.622304	car
 TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	201.986987	203.762056	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	202.322572	206.340764	car passing by
-TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	207.206221	211.330387	people speaking
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	202.322572	206.340764	car
+TUT-sound-events-2016-development/audio/residential_area/a011.wav	residential_area	207.206221	211.330387	people talking
 TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	0.746354	4.273768	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	4.096064	5.100089	children shouting
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	6.859353	7.525741	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	4.096064	5.100089	children
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	6.859353	7.525741	children
 TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	9.906967	13.674280	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	21.884179	22.990383	people speaking
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	23.097005	27.130873	children shouting
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	26.579992	31.604557	people speaking
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	21.884179	22.990383	people talking
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	23.097005	27.130873	children
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	26.579992	31.604557	people talking
 TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	26.619975	28.059373	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	28.028275	29.769769	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	31.862227	34.727695	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	31.862227	34.727695	children
 TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	35.656195	40.609679	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	39.139183	57.527046	people speaking
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	41.156117	43.537343	children shouting
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	44.199288	45.780849	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	39.139183	57.527046	people talking
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	41.156117	43.537343	children
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	44.199288	45.780849	children
 TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	48.348664	56.029895	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	48.721841	50.378926	children shouting
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	52.924527	55.443474	children shouting
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	57.527046	195.202787	people speaking
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	48.721841	50.378926	children
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	52.924527	55.443474	children
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	57.527046	195.202787	people talking
 TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	62.747085	65.474833	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	63.937698	65.332670	children shouting
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	66.247843	68.304760	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	63.937698	65.332670	children
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	66.247843	68.304760	children
 TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	71.028065	76.021532	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	80.259759	85.111063	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	88.025399	88.949457	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	89.473683	91.170750	children shouting
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	92.210315	93.152144	children shouting
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	93.472010	100.286937	children shouting
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	120.660636	121.638005	children shouting
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	134.166098	134.699208	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	89.473683	91.170750	children
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	92.210315	93.152144	children
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	93.472010	100.286937	children
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	120.660636	121.638005	children
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	134.166098	134.699208	children
 TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	137.533578	147.182875	bird singing
 TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	147.369464	152.078605	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	164.580042	166.499239	children shouting
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	191.537654	192.186271	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	164.580042	166.499239	children
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	191.537654	192.186271	children
 TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	194.638579	196.540006	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	206.518054	212.888722	children shouting
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	206.518054	212.888722	children
 TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	210.791822	211.413784	(object) banging
 TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	211.769191	215.092245	bird singing
-TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	212.408923	213.732814	people speaking
-TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	4.376468	20.098304	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	22.384103	32.865326	car passing by
+TUT-sound-events-2016-development/audio/residential_area/a012.wav	residential_area	212.408923	213.732814	people talking
+TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	4.376468	20.098304	car
+TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	22.384103	32.865326	car
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	29.408753	37.562364	people walking
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	32.271019	36.309675	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	40.938155	43.636053	wind blowing
-TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	45.295957	58.335793	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	49.667358	52.230835	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	45.295957	58.335793	car
+TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	49.667358	52.230835	car
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	51.088043	54.004395	bird singing
-TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	55.892944	59.646606	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	55.892944	59.646606	car
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	62.679723	64.591189	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	64.203435	65.601536	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	67.163477	70.407509	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	68.332203	70.167211	people walking
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	70.460320	70.782661	wind blowing
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	72.144213	76.414976	wind blowing
-TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	73.465856	83.427328	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	73.465856	83.427328	car
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	75.388245	75.705003	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	77.285717	77.574827	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	78.381056	87.031808	wind blowing
@@ -3164,12 +3164,12 @@ TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_ar
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	93.279573	103.874560	wind blowing
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	98.556519	101.852417	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	105.000496	131.240827	wind blowing
-TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	116.607666	130.676270	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	116.607666	130.676270	car
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	123.147605	124.715008	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	132.923392	133.589675	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	135.858859	136.216576	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	148.892331	152.529579	wind blowing
-TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	157.111637	171.048960	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	157.111637	171.048960	car
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	162.201600	165.303637	wind blowing
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	166.564941	188.537598	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	167.393699	168.838485	wind blowing
@@ -3178,86 +3178,86 @@ TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_ar
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	191.757202	197.247710	wind blowing
 TUT-sound-events-2016-development/audio/residential_area/b002.wav	residential_area	195.037842	197.247710	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	0.415706	18.222455	people walking
-TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	7.682240	18.141393	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	22.651799	30.392237	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	7.682240	18.141393	car
+TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	22.651799	30.392237	car
 TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	47.822773	48.421389	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	50.728555	51.246109	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	56.163906	56.749012	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	60.574987	67.817776	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	71.436543	71.796727	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	79.546691	80.781323	bird singing
-TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	79.931874	86.134202	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	84.130501	93.700044	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	79.931874	86.134202	car
+TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	84.130501	93.700044	car
 TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	84.392395	100.517616	people walking
 TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	97.339793	97.840049	bird singing
-TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	100.997756	108.100086	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	100.997756	108.100086	car
 TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	104.397189	104.871093	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	124.538206	124.927405	(object) banging
 TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	126.628776	127.563254	(object) banging
-TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	129.860196	145.343152	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	129.860196	145.343152	car
 TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	132.710387	133.034552	(object) banging
-TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	140.181647	149.545935	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	140.181647	149.545935	car
 TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	152.335320	152.437558	people walking
-TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	167.733056	172.742308	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	191.773311	199.776683	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	167.733056	172.742308	car
+TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	191.773311	199.776683	car
 TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	199.292386	201.462369	people walking
-TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	205.097715	211.487110	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	205.441711	211.058414	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	217.039898	227.923071	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	205.097715	211.487110	car
+TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	205.441711	211.058414	car
+TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	217.039898	227.923071	car
 TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	225.148200	225.292774	(object) banging
 TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	226.296260	226.756495	bird singing
-TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	231.220779	234.450184	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	10.406380	14.872192	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	38.159323	38.343667	people speaking
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	39.897614	40.616818	people speaking
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	41.563206	42.046137	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b003.wav	residential_area	231.220779	234.450184	car
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	10.406380	14.872192	car
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	38.159323	38.343667	people talking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	39.897614	40.616818	people talking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	41.563206	42.046137	people talking
 TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	51.182823	57.165323	people walking
 TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	59.882048	67.903876	people walking
 TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	76.732373	76.872638	bird singing
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	78.490764	79.453940	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	78.490764	79.453940	people talking
 TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	88.222828	95.409038	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	89.402829	90.110830	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	90.825686	95.706950	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	96.553079	97.939145	bird singing
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	97.599015	98.676441	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	97.599015	98.676441	people talking
 TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	99.527033	105.343631	bird singing
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	103.781150	110.247559	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	109.559168	113.643308	people speaking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	103.781150	110.247559	car
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	109.559168	113.643308	people talking
 TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	112.434600	127.794915	bird singing
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	123.900688	125.684354	people speaking
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	126.301903	128.459594	people speaking
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	130.312686	131.268573	people speaking
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	132.513526	133.469413	people speaking
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	137.111404	142.994801	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	142.758926	143.143251	people speaking
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	143.796934	144.499888	people speaking
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	145.817107	148.254454	people speaking
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	149.106184	150.622483	children shouting
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	149.108512	150.100532	people speaking
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	151.493302	152.406486	people speaking
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	152.512664	154.465158	children shouting
-TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	154.544913	156.052655	people speaking
-TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	5.254877	12.923712	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	19.902845	30.806714	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	39.559368	45.701005	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	45.701005	52.795088	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	53.484791	61.876172	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	67.131048	72.878569	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	72.878569	76.934677	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	123.900688	125.684354	people talking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	126.301903	128.459594	people talking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	130.312686	131.268573	people talking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	132.513526	133.469413	people talking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	137.111404	142.994801	car
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	142.758926	143.143251	people talking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	143.796934	144.499888	people talking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	145.817107	148.254454	people talking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	149.106184	150.622483	children
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	149.108512	150.100532	people talking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	151.493302	152.406486	people talking
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	152.512664	154.465158	children
+TUT-sound-events-2016-development/audio/residential_area/b004.wav	residential_area	154.544913	156.052655	people talking
+TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	5.254877	12.923712	car
+TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	19.902845	30.806714	car
+TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	39.559368	45.701005	car
+TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	45.701005	52.795088	car
+TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	53.484791	61.876172	car
+TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	67.131048	72.878569	car
+TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	72.878569	76.934677	car
 TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	82.312715	82.374296	(object) banging
 TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	83.761911	83.839913	(object) banging
-TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	95.991816	108.192982	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	106.756102	113.874817	car passing by
-TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	112.930582	119.507388	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	95.991816	108.192982	car
+TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	106.756102	113.874817	car
+TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	112.930582	119.507388	car
 TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	156.603532	157.490293	people walking
 TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	173.123551	175.656565	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	176.424270	178.470798	bird singing
-TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	180.521432	189.187872	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	180.521432	189.187872	car
 TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	192.410590	194.102003	bird singing
-TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	195.965842	203.289826	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	195.965842	203.289826	car
 TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	197.759890	198.424960	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	205.303512	205.991161	bird singing
-TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	207.584046	214.899819	car passing by
+TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	207.584046	214.899819	car
 TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	221.187197	221.761949	bird singing
 TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	223.102353	226.805399	people walking
 TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	227.484838	228.455759	bird singing
